@@ -1,0 +1,34 @@
+INSERT INTO HC_LabFREnt (AbnFlags, ConditionMacroID, IsNormal, LabFRID, MaxAge, MaxAgeUnits, MinAge, MinAgeUnits, Operator, Sex, Value, ValueLower)
+VALUES
+  (AbnFlags, 0, 1, LabFRID, MaxAge, MaxAgeUnits, MinAge, MinAgeUnits, Operator, Sex, Value, ValueLower),
+
+
+-- Minimum and Maximum Age Units
+--   Days Unit = 4
+--   Months Unit = 6
+--   Years Unit = 7
+--
+-- Age Units
+--   0 = 0
+--   1 Day = 24
+--   2 Days = 48
+--   3 Days = 72
+--   4 Days = 96
+--   5 Days = 120
+--   1 Year = 8760
+--   2 Years = 17520
+--   3 Years = 26280
+--   4 Years = 35040
+--   5 Years = 43800
+--   10 Years = 87600
+--   11 Years = 96360
+--   12 Years = 105120
+--   13 Years = 113880
+--   14 Years = 122640
+--   15 Years = 131400
+--   16 Years = 140160
+--   60 Years = 525600
+--   61 Years = 534360
+--   70 Years = 613200
+--   71 Years = 621960
+--   150 Years = 1314000
