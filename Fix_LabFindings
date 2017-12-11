@@ -1,2346 +1,2346 @@
 update HC_LabFR
   set DescX = 'Albumin (ALB)', NameX = 'Albumin (ALB)'
-  where LabFRID =
+  where LabFRID = 1
 
 update HC_LabFR
   set DescX = 'Alkaline Phosphatase (ALP)', NameX = 'Alkaline Phosphatase (ALP)'
-  where LabFRID =
+  where LabFRID = 3
 
 update HC_LabFR
   set DescX = 'Alanine Transaminase (ALT)', NameX = 'Alanine Transaminase (ALT)'
-  where LabFRID =
+  where LabFRID = 4
 
 update HC_LabFR
   set DescX = 'Amylase', NameX = 'Amylase'
-  where LabFRID =
+  where LabFRID = 5
 
 update HC_LabFR
   set DescX = 'Aspartate Transaminase (AST)', NameX = 'Aspartate Transaminase (AST)'
-  where LabFRID =
+  where LabFRID = 6
 
 update HC_LabFR
   set DescX = 'Bilirubin Direct', NameX = 'Bilirubin Direct'
-  where LabFRID =
+  where LabFRID = 7
 
 update HC_LabFR
   set DescX = 'Bilirubin Total', NameX = 'Bilirubin Total'
-  where LabFRID =
+  where LabFRID = 8
 
 update HC_LabFR
   set DescX = 'Indirect Bilirubin', NameX = 'Indirect Bilirubin'
-  where LabFRID =
+  where LabFRID = 9
 
 update HC_LabFR
   set DescX = 'BNP', NameX = 'BNP'
-  where LabFRID =
+  where LabFRID = 10
 
 update HC_LabFR
   set DescX = 'Blood Urea Nitrogen', NameX = 'Blood Urea Nitrogen'
-  where LabFRID =
+  where LabFRID = 11
 
 update HC_LabFR
   set DescX = 'Calcium (Ca)', NameX = 'Calcium (Ca)'
-  where LabFRID =
+  where LabFRID = 12
 
 update HC_LabFR
   set DescX = 'Chloride (CL)', NameX = 'Chloride (CL)'
-  where LabFRID =
+  where LabFRID = 13
 
 update HC_LabFR
   set DescX = 'Cholesterol Total', NameX = 'Cholesterol Total'
-  where LabFRID =
+  where LabFRID = 14
 
 update HC_LabFR
   set DescX = 'CK-MB', NameX = 'CK-MB'
-  where LabFRID =
+  where LabFRID = 15
 
 update HC_LabFR
   set DescX = 'CO2', NameX = 'CO2'
-  where LabFRID =
+  where LabFRID = 16
 
 update HC_LabFR
   set DescX = 'Cr. Clearance', NameX = 'Cr. Clearance'
-  where LabFRID =
+  where LabFRID = 17
 
 update HC_LabFR
   set DescX = 'CPK-Creatinine Kinase (CK)', NameX = 'CPK-Creatinine Kinase (CK)'
-  where LabFRID =
+  where LabFRID = 18
 
 update HC_LabFR
   set DescX = 'Creatinine (Creat)', NameX = 'Creatinine (Creat)'
-  where LabFRID =
+  where LabFRID = 19
 
 update HC_LabFR
   set DescX = 'CRP-Hs quantitative', NameX = 'CRP-Hs quantitative'
-  where LabFRID =
+  where LabFRID = 20
 
 update HC_LabFR
   set DescX = 'Ferritin', NameX = 'Ferritin'
-  where LabFRID =
+  where LabFRID = 21
 
 update HC_LabFR
   set DescX = 'Folic Acid', NameX = 'Folic Acid'
-  where LabFRID =
+  where LabFRID = 22
 
 update HC_LabFR
   set DescX = 'Gamma Glutamyl Transferase(GGT)', NameX = 'Gamma Glutamyl Transferase(GGT)'
-  where LabFRID =
+  where LabFRID = 23
 
 update HC_LabFR
   set DescX = 'Glucose 2hr Post Prandial', NameX = 'Glucose 2hr Post Prandial'
-  where LabFRID =
+  where LabFRID = 24
 
 update HC_LabFR
   set DescX = 'Glucose Fasting', NameX = 'Glucose Fasting'
-  where LabFRID =
+  where LabFRID = 25
 
 update HC_LabFR
   set DescX = 'Glucose Random', NameX = 'Glucose Random'
-  where LabFRID =
+  where LabFRID = 26
 
 update HC_LabFR
   set DescX = 'H.pylori Urea Breath Test', NameX = 'H.pylori Urea Breath Test'
-  where LabFRID =
+  where LabFRID = 27
 
 update HC_LabFR
   set DescX = 'Hb A1c', NameX = 'Hb A1c'
-  where LabFRID =
+  where LabFRID = 28
 
 update HC_LabFR
   set DescX = 'HDL-Cholesterol', NameX = 'HDL-Cholesterol'
-  where LabFRID =
+  where LabFRID = 29
 
 update HC_LabFR
   set DescX = 'Iron', NameX = 'Iron'
-  where LabFRID =
+  where LabFRID = 30
 
 update HC_LabFR
   set DescX = 'Lactic Acid lvl Plasma', NameX = 'Lactic Acid lvl Plasma'
-  where LabFRID =
+  where LabFRID = 31
 
 update HC_LabFR
   set DescX = 'LDH', NameX = 'LDH'
-  where LabFRID =
+  where LabFRID = 32
 
 update HC_LabFR
   set DescX = 'LDL-Cholesterol', NameX = 'LDL-Cholesterol'
-  where LabFRID =
+  where LabFRID = 33
 
 update HC_LabFR
   set DescX = 'Lactose Intolerance', NameX = 'Lactose Intolerance'
-  where LabFRID =
+  where LabFRID = 34
 
 update HC_LabFR
   set DescX = 'Magnesium Serum (Mg)', NameX = 'Magnesium Serum (Mg)'
-  where LabFRID =
+  where LabFRID = 35
 
 update HC_LabFR
   set DescX = 'Osmolality', NameX = 'Osmolality'
-  where LabFRID =
+  where LabFRID = 36
 
 update HC_LabFR
   set DescX = 'Phosphorus Serum (PO4)', NameX = 'Phosphorus Serum (PO4)'
-  where LabFRID =
+  where LabFRID = 37
 
 update HC_LabFR
   set DescX = 'Potassium Serum (K)', NameX = 'Potassium Serum (K)'
-  where LabFRID =
+  where LabFRID = 38
 
 update HC_LabFR
   set DescX = 'Total Protein', NameX = 'Total Protein'
-  where LabFRID =
+  where LabFRID = 39
 
 update HC_LabFR
   set DescX = 'Rheumatoid Factor Quantitative', NameX = 'Rheumatoid Factor Quantitative'
-  where LabFRID =
+  where LabFRID = 40
 
 update HC_LabFR
   set DescX = 'Sodium Serum (Na)', NameX = 'Sodium Serum (Na)'
-  where LabFRID =
+  where LabFRID = 41
 
 update HC_LabFR
   set DescX = 'TIBC', NameX = 'TIBC'
-  where LabFRID =
+  where LabFRID = 42
 
 update HC_LabFR
   set DescX = 'Triglycerides', NameX = 'Triglycerides'
-  where LabFRID =
+  where LabFRID = 43
 
 update HC_LabFR
   set DescX = 'Troponin I (Cardiac)', NameX = 'Troponin I (Cardiac)'
-  where LabFRID =
+  where LabFRID = 44
 
 update HC_LabFR
   set DescX = 'UIBC(Unsaturated Iron Binding Capacity)', NameX = 'UIBC(Unsaturated Iron Binding Capacity)'
-  where LabFRID =
+  where LabFRID = 45
 
 update HC_LabFR
   set DescX = 'Urea', NameX = 'Urea'
-  where LabFRID =
+  where LabFRID = 46
 
 update HC_LabFR
   set DescX = 'Uric Acid (UA)', NameX = 'Uric Acid (UA)'
-  where LabFRID =
+  where LabFRID = 47
 
 update HC_LabFR
   set DescX = 'Vit D3-25 -OH', NameX = 'Vit D3-25 -OH'
-  where LabFRID =
+  where LabFRID = 48
 
 update HC_LabFR
   set DescX = 'Vitamin A', NameX = 'Vitamin A'
-  where LabFRID =
+  where LabFRID = 49
 
 update HC_LabFR
   set DescX = 'Vitamin B1', NameX = 'Vitamin B1'
-  where LabFRID =
+  where LabFRID = 50
 
 update HC_LabFR
   set DescX = 'Vitamin B2', NameX = 'Vitamin B2'
-  where LabFRID =
+  where LabFRID = 51
 
 update HC_LabFR
   set DescX = 'Vitamin B3', NameX = 'Vitamin B3'
-  where LabFRID =
+  where LabFRID = 52
 
 update HC_LabFR
   set DescX = 'Vitamin B5', NameX = 'Vitamin B5'
-  where LabFRID =
+  where LabFRID = 53
 
 update HC_LabFR
   set DescX = 'Vitamin B6', NameX = 'Vitamin B6'
-  where LabFRID =
+  where LabFRID = 54
 
 update HC_LabFR
   set DescX = 'Vitamin B7 - Biotin', NameX = 'Vitamin B7 - Biotin'
-  where LabFRID =
+  where LabFRID = 55
 
 update HC_LabFR
   set DescX = 'Vitamin B12', NameX = 'Vitamin B12'
-  where LabFRID =
+  where LabFRID = 56
 
 update HC_LabFR
   set DescX = 'Vitamin C', NameX = 'Vitamin C'
-  where LabFRID =
+  where LabFRID = 57
 
 update HC_LabFR
   set DescX = 'Vitamin E', NameX = 'Vitamin E'
-  where LabFRID =
+  where LabFRID = 58
 
 update HC_LabFR
   set DescX = 'Vitamin K', NameX = 'Vitamin K'
-  where LabFRID =
+  where LabFRID = 59
 
 update HC_LabFR
   set DescX = 'Zinc', NameX = 'Zinc'
-  where LabFRID =
+  where LabFRID = 60
 
 update HC_LabFR
   set DescX = 'Chromogranin A', NameX = 'Chromogranin A'
-  where LabFRID =
+  where LabFRID = 61
 
 update HC_LabFR
   set DescX = 'Homocystein', NameX = 'Homocystein'
-  where LabFRID =
+  where LabFRID = 63
 
 update HC_LabFR
   set DescX = 'Folate RBC', NameX = 'Folate RBC'
-  where LabFRID =
+  where LabFRID = 64
 
 update HC_LabFR
   set DescX = 'Prealbumin', NameX = 'Prealbumin'
-  where LabFRID =
+  where LabFRID = 65
 
 update HC_LabFR
   set DescX = 'Procalcitonin', NameX = 'Procalcitonin'
-  where LabFRID =
+  where LabFRID = 66
 
 update HC_LabFR
   set DescX = 'Acetone/Ketone', NameX = 'Acetone/Ketone'
-  where LabFRID =
+  where LabFRID = 67
 
 update HC_LabFR
   set DescX = 'ALP Bone Specific', NameX = 'ALP Bone Specific'
-  where LabFRID =
+  where LabFRID = 68
 
 update HC_LabFR
   set DescX = 'ALP Bone Specific (pre-menopausal)', NameX = 'ALP Bone Specific (pre-menopausal)'
-  where LabFRID =
+  where LabFRID = 69
 
 update HC_LabFR
   set DescX = 'Erythropoietin (EPO)', NameX = 'Erythropoietin (EPO)'
-  where LabFRID =
+  where LabFRID = 70
 
 update HC_LabFR
   set DescX = 'Gastrin', NameX = 'Gastrin'
-  where LabFRID =
+  where LabFRID = 71
 
 update HC_LabFR
   set DescX = 'Ionized Calcium', NameX = 'Ionized Calcium'
-  where LabFRID =
+  where LabFRID = 72
 
 update HC_LabFR
   set DescX = 'Lipase', NameX = 'Lipase'
-  where LabFRID =
+  where LabFRID = 73
 
 update HC_LabFR
   set DescX = 'Myoglobin', NameX = 'Myoglobin'
-  where LabFRID =
+  where LabFRID = 74
 
 update HC_LabFR
   set DescX = 'N-Telopeptide', NameX = 'N-Telopeptide'
-  where LabFRID =
+  where LabFRID = 75
 
 update HC_LabFR
   set DescX = 'ACTH', NameX = 'ACTH'
-  where LabFRID =
+  where LabFRID = 76
 
 update HC_LabFR
   set DescX = 'Corrected calcium', NameX = 'Corrected calcium'
-  where LabFRID =
+  where LabFRID = 77
 
 update HC_LabFR
   set DescX = 'a-Amino-n-butyric Acid(Abu)', NameX = 'a-Amino-n-butyric Acid(Abu)'
-  where LabFRID =
+  where LabFRID = 78
 
 update HC_LabFR
   set DescX = 'Alanine', NameX = 'Alanine'
-  where LabFRID =
+  where LabFRID = 79
 
 update HC_LabFR
   set DescX = 'Arginine', NameX = 'Arginine'
-  where LabFRID =
+  where LabFRID = 80
 
 update HC_LabFR
   set DescX = 'Aspartic acid', NameX = 'Aspartic acid'
-  where LabFRID =
+  where LabFRID = 81
 
 update HC_LabFR
   set DescX = 'Asparagine', NameX = 'Asparagine'
-  where LabFRID =
+  where LabFRID = 82
 
 update HC_LabFR
   set DescX = 'Cystine', NameX = 'Cystine'
-  where LabFRID =
+  where LabFRID = 83
 
 update HC_LabFR
   set DescX = 'Glutamine', NameX = 'Glutamine'
-  where LabFRID =
+  where LabFRID = 84
 
 update HC_LabFR
   set DescX = 'Glutamic acid', NameX = 'Glutamic acid'
-  where LabFRID =
+  where LabFRID = 85
 
 update HC_LabFR
   set DescX = 'Glycine', NameX = 'Glycine'
-  where LabFRID =
+  where LabFRID = 86
 
 update HC_LabFR
   set DescX = 'Histidine', NameX = 'Histidine'
-  where LabFRID =
+  where LabFRID = 87
 
 update HC_LabFR
   set DescX = 'Hydroxyproline(Hyp)', NameX = 'Hydroxyproline(Hyp)'
-  where LabFRID =
+  where LabFRID = 88
 
 update HC_LabFR
   set DescX = 'Isoleucine', NameX = 'Isoleucine'
-  where LabFRID =
+  where LabFRID = 89
 
 update HC_LabFR
   set DescX = 'Leucine', NameX = 'Leucine'
-  where LabFRID =
+  where LabFRID = 90
 
 update HC_LabFR
   set DescX = 'Methionine', NameX = 'Methionine'
-  where LabFRID =
+  where LabFRID = 91
 
 update HC_LabFR
   set DescX = 'Ornithine(Orn)', NameX = 'Ornithine(Orn)'
-  where LabFRID =
+  where LabFRID = 92
 
 update HC_LabFR
   set DescX = 'Phosphoethanolamine(PEtN)', NameX = 'Phosphoethanolamine(PEtN)'
-  where LabFRID =
+  where LabFRID = 93
 
 update HC_LabFR
   set DescX = 'Phosphoserine(Pser)', NameX = 'Phosphoserine(Pser)'
-  where LabFRID =
+  where LabFRID = 94
 
 update HC_LabFR
   set DescX = 'Phenylalanine', NameX = 'Phenylalanine'
-  where LabFRID =
+  where LabFRID = 95
 
 update HC_LabFR
   set DescX = 'Proline', NameX = 'Proline'
-  where LabFRID =
+  where LabFRID = 96
 
 update HC_LabFR
   set DescX = 'Sarcosine(Sar)', NameX = 'Sarcosine(Sar)'
-  where LabFRID =
+  where LabFRID = 97
 
 update HC_LabFR
   set DescX = 'Serine', NameX = 'Serine'
-  where LabFRID =
+  where LabFRID = 98
 
 update HC_LabFR
   set DescX = 'Taurine', NameX = 'Taurine'
-  where LabFRID =
+  where LabFRID = 99
 
 update HC_LabFR
   set DescX = 'Threonine', NameX = 'Threonine'
-  where LabFRID =
+  where LabFRID = 100
 
 update HC_LabFR
   set DescX = 'Tryptophan', NameX = 'Tryptophan'
-  where LabFRID =
+  where LabFRID = 101
 
 update HC_LabFR
   set DescX = 'Tyrosine', NameX = 'Tyrosine'
-  where LabFRID =
+  where LabFRID = 102
 
 update HC_LabFR
   set DescX = 'Valine', NameX = 'Valine'
-  where LabFRID =
+  where LabFRID = 103
 
 update HC_LabFR
   set DescX = 'Amyloid A', NameX = 'Amyloid A'
-  where LabFRID =
+  where LabFRID = 104
 
 update HC_LabFR
   set DescX = 'Galactose', NameX = 'Galactose'
-  where LabFRID =
+  where LabFRID = 105
 
 update HC_LabFR
   set DescX = 'Chromium', NameX = 'Chromium'
-  where LabFRID =
+  where LabFRID = 106
 
 update HC_LabFR
   set DescX = 'Copper', NameX = 'Copper'
-  where LabFRID =
+  where LabFRID = 107
 
 update HC_LabFR
   set DescX = 'Manganese', NameX = 'Manganese'
-  where LabFRID =
+  where LabFRID = 108
 
 update HC_LabFR
   set DescX = 'Beta carotene', NameX = 'Beta carotene'
-  where LabFRID =
+  where LabFRID = 109
 
 update HC_LabFR
   set DescX = 'Co enzyme q10(Total)', NameX = 'Co enzyme q10(Total)'
-  where LabFRID =
+  where LabFRID = 110
 
 update HC_LabFR
   set DescX = 'Co enzyme q10(Reduced)', NameX = 'Co enzyme q10(Reduced)'
-  where LabFRID =
+  where LabFRID = 111
 
 update HC_LabFR
   set DescX = 'Apo lipoprotein A-1', NameX = 'Apo lipoprotein A-1'
-  where LabFRID =
+  where LabFRID = 112
 
 update HC_LabFR
   set DescX = 'Apolipoprotein B', NameX = 'Apolipoprotein B'
-  where LabFRID =
+  where LabFRID = 114
 
 update HC_LabFR
   set DescX = 'Lipoprotein a', NameX = 'Lipoprotein a'
-  where LabFRID =
+  where LabFRID = 115
 
 update HC_LabFR
   set DescX = 'Lipoprotein b', NameX = 'Lipoprotein b'
-  where LabFRID =
+  where LabFRID = 116
 
 update HC_LabFR
   set DescX = 'Serotonin', NameX = 'Serotonin'
-  where LabFRID =
+  where LabFRID = 117
 
 update HC_LabFR
   set DescX = 'Glutathione(Total)', NameX = 'Glutathione(Total)'
-  where LabFRID =
+  where LabFRID = 118
 
 update HC_LabFR
   set DescX = 'Glutathione (Oxidized)', NameX = 'Glutathione (Oxidized)'
-  where LabFRID =
+  where LabFRID = 119
 
 update HC_LabFR
   set DescX = 'GSH (Reduced)', NameX = 'GSH (Reduced)'
-  where LabFRID =
+  where LabFRID = 120
 
 update HC_LabFR
   set DescX = 'Mercury', NameX = 'Mercury'
-  where LabFRID =
+  where LabFRID = 121
 
 update HC_LabFR
   set DescX = 'Lead', NameX = 'Lead'
-  where LabFRID =
+  where LabFRID = 122
 
 update HC_LabFR
   set DescX = 'Aluminum', NameX = 'Aluminum'
-  where LabFRID =
+  where LabFRID = 123
 
 update HC_LabFR
   set DescX = 'Arsenic', NameX = 'Arsenic'
-  where LabFRID =
+  where LabFRID = 124
 
 update HC_LabFR
   set DescX = 'Cadmium', NameX = 'Cadmium'
-  where LabFRID =
+  where LabFRID = 125
 
 update HC_LabFR
   set DescX = 'Alpha linolenic acid', NameX = 'Alpha linolenic acid'
-  where LabFRID =
+  where LabFRID = 126
 
 update HC_LabFR
   set DescX = 'Linoleic acid', NameX = 'Linoleic acid'
-  where LabFRID =
+  where LabFRID = 127
 
 update HC_LabFR
   set DescX = 'EPA', NameX = 'EPA'
-  where LabFRID =
+  where LabFRID = 128
 
 update HC_LabFR
   set DescX = 'DHA', NameX = 'DHA'
-  where LabFRID =
+  where LabFRID = 129
 
 update HC_LabFR
   set DescX = 'Arachidonic acid', NameX = 'Arachidonic acid'
-  where LabFRID =
+  where LabFRID = 130
 
 update HC_LabFR
   set DescX = 'Gamma-Linolenic Acid', NameX = 'Gamma-Linolenic Acid'
-  where LabFRID =
+  where LabFRID = 131
 
 update HC_LabFR
   set DescX = 'Homo_ gamma _ linolenic acid', NameX = 'Homo_ gamma _ linolenic acid'
-  where LabFRID =
+  where LabFRID = 132
 
 update HC_LabFR
   set DescX = 'Oleic Acid', NameX = 'Oleic Acid'
-  where LabFRID =
+  where LabFRID = 133
 
 update HC_LabFR
   set DescX = 'Vaccenic Acid', NameX = 'Vaccenic Acid'
-  where LabFRID =
+  where LabFRID = 134
 
 update HC_LabFR
   set DescX = 'Stearic Acid', NameX = 'Stearic Acid'
-  where LabFRID =
+  where LabFRID = 135
 
 update HC_LabFR
   set DescX = 'Mead Acid', NameX = 'Mead Acid'
-  where LabFRID =
+  where LabFRID = 136
 
 update HC_LabFR
   set DescX = 'Selenium', NameX = 'Selenium'
-  where LabFRID =
+  where LabFRID = 137
 
 update HC_LabFR
   set DescX = 'Ammonia', NameX = 'Ammonia'
-  where LabFRID =
+  where LabFRID = 138
 
 update HC_LabFR
   set DescX = 'Globulin', NameX ='Globulin'
-  where LabFRID =
+  where LabFRID = 139
 
 update HC_LabFR
   set DescX = 'Fasting - GTT PANEL', NameX = 'Fasting - GTT PANEL'
-  where LabFRID =
+  where LabFRID = 140
 
 update HC_LabFR
   set DescX = '60 min after glucose - GTT PANEL', NameX = '60 min after glucose - GTT PANEL'
-  where LabFRID =
+  where LabFRID = 141
 
 update HC_LabFR
   set DescX = '120 min after glucose - GTT PANEL', NameX = '120 min after glucose - GTT PANEL'
-  where LabFRID =
+  where LabFRID = 142
 
 update HC_LabFR
   set DescX = '180 min after glucose - GTT PANEL', NameX = '180 min after glucose - GTT PANEL'
-  where LabFRID =
+  where LabFRID = 143
 
 update HC_LabFR
   set DescX = 'U 24 h Amylase - UB PANEL', NameX = 'U 24 h Amylase - UB PANEL'
-  where LabFRID =
+  where LabFRID = 144
 
 update HC_LabFR
   set DescX = 'U Beta2 Micro - UB PANEL', NameX = 'U Beta2 Micro - UB PANEL'
-  where LabFRID =
+  where LabFRID = 145
 
 update HC_LabFR
   set DescX = 'U 24 Calcium - UB PANEL', NameX = 'U 24 Calcium - UB PANEL'
-  where LabFRID =
+  where LabFRID = 146
 
 update HC_LabFR
   set DescX = 'U24 Chloride - UB PANEL', NameX = 'U24 Chloride - UB PANEL'
-  where LabFRID =
+  where LabFRID = 147
 
 update HC_LabFR
   set DescX = 'U Creatinine - UB PANEL', NameX = 'U Creatinine - UB PANEL'
-  where LabFRID =
+  where LabFRID = 148
 
 update HC_LabFR
   set DescX = 'U24 Creatinine - UB PANEL', NameX = 'U24 Creatinine - UB PANEL'
-  where LabFRID =
+  where LabFRID = 149
 
 update HC_LabFR
   set DescX = 'U Glucose - UB PANEL', NameX = 'U Glucose - UB PANEL'
-  where LabFRID =
+  where LabFRID = 150
 
 update HC_LabFR
   set DescX = 'U24 Magnesium - UB PANEL', NameX = 'U24 Magnesium - UB PANEL'
-  where LabFRID =
+  where LabFRID = 151
 
 update HC_LabFR
   set DescX = 'U Microalbumin - UB PANEL', NameX = 'U Microalbumin - UB PANEL'
-  where LabFRID =
+  where LabFRID = 152
 
 update HC_LabFR
   set DescX = 'U24 Microalbumin - UB PANEL', NameX = 'U24 Microalbumin - UB PANEL'
-  where LabFRID =
+  where LabFRID = 153
 
 update HC_LabFR
   set DescX = 'U24 Phosphorus - UB PANEL', NameX = 'U24 Phosphorus - UB PANEL'
-  where LabFRID =
+  where LabFRID = 154
 
 update HC_LabFR
   set DescX = 'U24 Potassium - UB PANEL', NameX = 'U24 Potassium - UB PANEL'
-  where LabFRID =
+  where LabFRID = 155
 
 update HC_LabFR
   set DescX = 'U Protein - UB PANEL', NameX = 'U Protein - UB PANEL'
-  where LabFRID =
+  where LabFRID = 156
 
 update HC_LabFR
   set DescX = 'U24 Protein - UB PANEL', NameX = 'U24 Protein - UB PANEL'
-  where LabFRID =
+  where LabFRID = 157
 
 update HC_LabFR
   set DescX = 'U24 Sodium - UB PANEL', NameX = 'U24 Sodium - UB PANEL'
-  where LabFRID =
+  where LabFRID = 158
 
 update HC_LabFR
   set DescX = 'U24 Urea - UB PANEL', NameX = 'U24 Urea - UB PANEL'
-  where LabFRID =
+  where LabFRID = 159
 
 update HC_LabFR
   set DescX = 'U24 Uric Acid - UB PANEL', NameX = 'U24 Uric Acid - UB PANEL'
-  where LabFRID =
+  where LabFRID = 160
 
 update HC_LabFR
   set DescX = 'UPRO / UCREA Ratio - UB PANEL', NameX = 'UPRO / UCREA Ratio - UB PANEL'
-  where LabFRID =
+  where LabFRID = 161
 
 update HC_LabFR
   set DescX = '24 h Urine C-Peptide - UB PANEL', NameX = '24 h Urine C-Peptide - UB PANEL'
-  where LabFRID =
+  where LabFRID = 162
 
 update HC_LabFR
   set DescX = 'Acetone Qualitative - UB PANEL', NameX = 'Acetone Qualitative - UB PANEL'
-  where LabFRID =
+  where LabFRID = 163
 
 update HC_LabFR
   set DescX = 'Amylase - UB PANEL', NameX = 'Amylase - UB PANEL'
-  where LabFRID =
+  where LabFRID = 164
 
 update HC_LabFR
   set DescX = 'Osmolality - UB PANEL', NameX = 'Osmolality - UB PANEL'
-  where LabFRID =
+  where LabFRID = 165
 
 update HC_LabFR
   set DescX = 'Urine Drug Screen - UB PANEL', NameX = 'Urine Drug Screen - UB PANEL'
-  where LabFRID =
+  where LabFRID = 166
 
 update HC_LabFR
   set DescX = 'Urine Eosinophils - UB PANEL', NameX = 'Urine Eosinophils - UB PANEL'
-  where LabFRID =
+  where LabFRID = 167
 
 update HC_LabFR
   set DescX = 'Immunofixation', NameX = 'Immunofixation'
-  where LabFRID =
+  where LabFRID = 168
 
 update HC_LabFR
   set DescX = 'Myoglobin', NameX = 'Myoglobin'
-  where LabFRID =
+  where LabFRID = 169
 
 update HC_LabFR
   set DescX = '24 hour oxalate ( urine) - UB PANEL', NameX = '24 hour oxalate ( urine) - UB PANEL'
-  where LabFRID =
+  where LabFRID = 170
 
 update HC_LabFR
   set DescX = '24 hour Free Coritsol(Urine) - UB PANEL', NameX = '24 hour Free Coritsol(Urine) - UB PANEL'
-  where LabFRID =
+  where LabFRID = 171
 
 update HC_LabFR
   set DescX = 'Urine - Calcium - UB PANEL', NameX = 'Urine - Calcium - UB PANEL'
-  where LabFRID =
+  where LabFRID = 172
 
 update HC_LabFR
   set DescX = 'Mercury - UB PANEL', NameX = 'Mercury - UB PANEL'
-  where LabFRID =
+  where LabFRID = 173
 
 update HC_LabFR
   set DescX = 'Urine MicroAlb/Creat Ratio - UB PANEL', NameX = 'Urine MicroAlb/Creat Ratio - UB PANEL'
-  where LabFRID =
+  where LabFRID = 174
 
 update HC_LabFR
   set DescX = 'N-Telopeptide', NameX = 'N-Telopeptide'
-  where LabFRID =
+  where LabFRID = 175
 
 update HC_LabFR
   set DescX = 'Sodium - UB PANEL', NameX = 'Sodium - UB PANEL'
-  where LabFRID =
+  where LabFRID = 176
 
 update HC_LabFR
   set DescX = 'Potassium', NameX = 'Potassium'
-  where LabFRID =
+  where LabFRID = 177
 
 update HC_LabFR
   set DescX = 'Potassium', NameX = 'Potassium'
-  where LabFRID =
+  where LabFRID = 178
 
 update HC_LabFR
   set DescX = 'Kappa light chain urine - UB PANEL', NameX = 'Kappa light chain urine - UB PANEL'
-  where LabFRID =
+  where LabFRID = 179
 
 update HC_LabFR
   set DescX = 'Lambda light chain urine - UB PANEL', NameX = 'Lambda light chain urine - UB PANEL'
-  where LabFRID =
+  where LabFRID = 180
 
 update HC_LabFR
   set DescX = 'kappa/ lambda chain free with ratio - UB PANEL', NameX =  'kappa/ lambda chain free with ratio - UB PANEL'
-  where LabFRID =
+  where LabFRID = 181
 
 update HC_LabFR
   set DescX = 'Ketone - UB PANEL', NameX = 'Ketone - UB PANEL'
-  where LabFRID =
+  where LabFRID = 182
 
 update HC_LabFR
   set DescX = 'EGFR - UB PANEL', NameX = 'EGFR - UB PANEL'
-  where LabFRID =
+  where LabFRID = 183
 
 update HC_LabFR
   set DescX = '24 hour Coritsol (Urine) - UB PANEL', NameX =  '24 hour Coritsol (Urine) - UB PANEL'
-  where LabFRID =
+  where LabFRID = 184
 
 update HC_LabFR
   set DescX = 'Urine - Creatinine Clearance - UB PANEL', NameX = 'Urine - Creatinine Clearance - UB PANEL'
-  where LabFRID =
+  where LabFRID = 185
 
 update HC_LabFR
   set DescX = 'Urine Culture - UB PANEL', NameX = 'Urine Culture - UB PANEL'
-  where LabFRID =
+  where LabFRID = 186
 
 update HC_LabFR
   set DescX = 'Colour - UR PANEL', NameX = 'Colour - UR PANEL'
-  where LabFRID =
+  where LabFRID = 187
 
 update HC_LabFR
   set DescX = 'Clarity - UR PANEL', NameX = 'Clarity - UR PANEL'
-  where LabFRID =
+  where LabFRID = 188
 
 update HC_LabFR
   set DescX = 'PH - UR PANEL', NameX = 'PH - UR PANEL'
-  where LabFRID =
+  where LabFRID = 189
 
 update HC_LabFR
   set DescX = 'Specific Gravity - UR PANEL', NameX = 'Specific Gravity - UR PANEL'
-  where LabFRID =
+  where LabFRID = 190
 
 update HC_LabFR
   set DescX = 'Glucose - UR PANEL', NameX = 'Glucose - UR PANEL'
-  where LabFRID =
+  where LabFRID = 191
 
 update HC_LabFR
   set DescX = 'Ketones - UR PANEL', NameX = 'Ketones - UR PANEL'
-  where LabFRID =
+  where LabFRID = 192
 
 update HC_LabFR
   set DescX = 'Nitrites - UR PANEL', NameX = 'Nitrites - UR PANEL'
-  where LabFRID =
+  where LabFRID = 193
 
 update HC_LabFR
   set DescX = 'Leukocytes Esterase - UR PANEL', NameX = 'Leukocytes Esterase - UR PANEL'
-  where LabFRID =
+  where LabFRID = 194
 
 update HC_LabFR
   set DescX = 'Bilirubin - UR PANEL', NameX = 'Bilirubin - UR PANEL'
-  where LabFRID =
+  where LabFRID = 195
 
 update HC_LabFR
   set DescX = 'Urobilinogen - UR PANEL', NameX = 'Urobilinogen - UR PANEL'
-  where LabFRID =
+  where LabFRID = 196
 
 update HC_LabFR
   set DescX = 'Blood - UR PANEL', NameX = 'Blood - UR PANEL'
-  where LabFRID =
+  where LabFRID = 197
 
 update HC_LabFR
   set DescX = 'Protein - UR PANEL', NameX = 'Protein - UR PANEL'
-  where LabFRID =
+  where LabFRID = 198
 
 update HC_LabFR
   set DescX = 'RBCs - UR PANEL', NameX = 'RBCs - UR PANEL'
-  where LabFRID =
+  where LabFRID = 199
 
 update HC_LabFR
   set DescX = 'WBSc - UR PANEL', NameX = 'WBSc - UR PANEL'
-  where LabFRID =
+  where LabFRID = 200
 
 update HC_LabFR
   set DescX = 'Squamous Epithilial Cells - UR PANEL', NameX = 'Squamous Epithilial Cells - UR PANEL'
-  where LabFRID =
+  where LabFRID = 201
 
 update HC_LabFR
   set DescX = 'Casts - UR PANEL', NameX = 'Casts - UR PANEL'
-  where LabFRID =
+  where LabFRID = 202
 
 update HC_LabFR
   set DescX = 'Crystals - UR PANEL', NameX = 'Crystals - UR PANEL'
-  where LabFRID =
+  where LabFRID = 203
 
 update HC_LabFR
   set DescX = 'Yeast - UR PANEL', NameX = 'Yeast - UR PANEL'
-  where LabFRID =
+  where LabFRID = 205
 
 update HC_LabFR
   set DescX = 'HCG - Urine - PREGNANCY PANEL', NameX = 'HCG - Urine - PREGNANCY PANEL'
-  where LabFRID =
+  where LabFRID = 206
 
 update HC_LabFR
   set DescX = 'HCG - PREGNANCY PANEL', NameX = 'HCG - PREGNANCY PANEL'
-  where LabFRID =
+  where LabFRID = 207
 
 update HC_LabFR
   set DescX = 'CA 125 - TM PANEL', NameX = 'CA 125 - TM PANEL'
-  where LabFRID =
+  where LabFRID = 209
 
 update HC_LabFR
   set DescX = 'CA 15-3 - TM PANEL', NameX = 'CA 15-3 - TM PANEL'
-  where LabFRID =
+  where LabFRID = 210
 
 update HC_LabFR
   set DescX = 'CA 19-9 - TM PANEL', NameX = 'CA 19-9 - TM PANEL'
-  where LabFRID =
+  where LabFRID = 211
 
 update HC_LabFR
   set DescX = 'CA 72-4 - TM PANEL', NameX = 'CA 72-4 - TM PANEL'
-  where LabFRID =
+  where LabFRID = 212
 
 update HC_LabFR
   set DescX = 'CEA (Non Smoker) - TM PANEL', NameX = 'CEA (Non Smoker) - TM PANEL'
-  where LabFRID =
+  where LabFRID = 213
 
 update HC_LabFR
   set DescX = 'CEA (Smoker) - TM PANEL', NameX = 'CEA (Smoker) - TM PANEL'
-  where LabFRID =
+  where LabFRID = 214
 
 update HC_LabFR
   set DescX = 'CYFRA 12-1 - TM PANEL', NameX = 'CYFRA 12-1 - TM PANEL'
-  where LabFRID =
+  where LabFRID = 215
 
 update HC_LabFR
   set DescX = 'Total PSA - TM PANEL', NameX = 'Total PSA - TM PANEL'
-  where LabFRID =
+  where LabFRID = 216
 
 update HC_LabFR
   set DescX = 'Free PSA - TM PANEL', NameX = 'Free PSA - TM PANEL'
-  where LabFRID =
+  where LabFRID = 217
 
 update HC_LabFR
   set DescX = 'RBC - CBC PANEL', NameX = 'RBC - CBC PANEL'
-  where LabFRID =
+  where LabFRID = 218
 
 update HC_LabFR
   set DescX = 'HGB - CBC PANEL', NameX = 'HGB - CBC PANEL'
-  where LabFRID =
+  where LabFRID = 219
 
 update HC_LabFR
   set DescX = 'HCT - CBC PANEL', NameX = 'HCT - CBC PANEL'
-  where LabFRID =
+  where LabFRID = 220
 
 update HC_LabFR
   set DescX = 'MCV - CBC PANEL', NameX = 'MCV - CBC PANEL'
-  where LabFRID =
+  where LabFRID =  221
 
 update HC_LabFR
   set DescX = 'MCH - CBC PANEL', NameX = 'MCH - CBC PANEL'
-  where LabFRID =
+  where LabFRID = 222
 
 update HC_LabFR
   set DescX = 'MCHC - CBC PANEL', NameX = 'MCHC - CBC PANEL'
-  where LabFRID =
+  where LabFRID = 223
 
 update HC_LabFR
   set DescX = 'RDW - CBC PANEL', NameX = 'RDW - CBC PANEL'
-  where LabFRID =
+  where LabFRID = 224
 
 update HC_LabFR
   set DescX = 'PLT - CBC PANEL', NameX = 'PLT - CBC PANEL'
-  where LabFRID =
+  where LabFRID = 225
 
 update HC_LabFR
   set DescX = 'MPV - CBC PANEL', NameX = 'MPV - CBC PANEL'
-  where LabFRID =
+  where LabFRID = 226
 
 update HC_LabFR
   set DescX = 'WBC - CBC PANEL', NameX = 'WBC - CBC PANEL'
-  where LabFRID =
+  where LabFRID = 227
 
 update HC_LabFR
   set DescX = 'NEU % - CBC PANEL', NameX = 'NEU % - CBC PANEL'
-  where LabFRID =
+  where LabFRID = 228
 
 update HC_LabFR
   set DescX = 'NEU # - CBC PANEL', NameX = 'NEU # - CBC PANEL'
-  where LabFRID =
+  where LabFRID = 229
 
 update HC_LabFR
   set DescX = 'LYM % - CBC PANEL', NameX = 'LYM % - CBC PANEL'
-  where LabFRID =
+  where LabFRID = 230
 
 update HC_LabFR
   set DescX = 'LYM # - CBC PANEL', NameX = 'LYM # - CBC PANEL'
-  where LabFRID =
+  where LabFRID = 231
 
 update HC_LabFR
   set DescX = 'MON % - CBC PANEL', NameX = 'MON % - CBC PANEL'
-  where LabFRID =
+  where LabFRID = 232
 
 update HC_LabFR
   set DescX = 'MON # - CBC PANEL', NameX = 'MON # - CBC PANEL'
-  where LabFRID =
+  where LabFRID = 233
 
 update HC_LabFR
   set DescX = 'EOS % - CBC PANEL', NameX = 'EOS % - CBC PANEL'
-  where LabFRID =
+  where LabFRID = 234
 
 update HC_LabFR
   set DescX = 'EOS # - CBC PANEL', NameX = 'EOS # - CBC PANEL'
-  where LabFRID =
+  where LabFRID = 235
 
 update HC_LabFR
   set DescX = 'BAS % - CBC PANEL', NameX = 'BAS % - CBC PANEL'
-  where LabFRID =
+  where LabFRID = 236
 
 update HC_LabFR
   set DescX = 'BAS # - CBC PANEL', NameX = 'BAS # - CBC PANEL'
-  where LabFRID =
+  where LabFRID = 237
 
 update HC_LabFR
   set DescX = 'ESR - HEMA PANEL', NameX = 'ESR - HEMA PANEL'
-  where LabFRID =
+  where LabFRID = 239
 
 update HC_LabFR
   set DescX = 'Blood Film Malarial Parasite - HEMA PANEL', NameX =  'Blood Film Malarial Parasite - HEMA PANEL'
-  where LabFRID =
+  where LabFRID = 240
 
 update HC_LabFR
   set DescX = 'Blood FILM Filarial Parasite - HEMA PANEL', NameX = 'Blood FILM Filarial Parasite - HEMA PANEL'
-  where LabFRID =
+  where LabFRID = 241
 
 update HC_LabFR
   set DescX = 'Coombs Test -Direct - HEMA PANEL', NameX = 'Coombs Test -Direct - HEMA PANEL'
-  where LabFRID =
+  where LabFRID = 242
 
 update HC_LabFR
   set DescX = 'Coombs Test-Indirect - HEMA PANEL', NameX = 'Coombs Test-Indirect - HEMA PANEL'
-  where LabFRID =
+  where LabFRID = 243
 
 update HC_LabFR
   set DescX = 'Reticulocyte Count - HEMA PANEL', NameX = 'Reticulocyte Count - HEMA PANEL'
-  where LabFRID =
+  where LabFRID = 244
 
 update HC_LabFR
   set DescX = 'Haptoglobin - HEMA PANEL', NameX = 'Haptoglobin - HEMA PANEL'
-  where LabFRID =
+  where LabFRID = 245
 
 update HC_LabFR
   set DescX = 'pCo2 (umbilical vein) - iSTAT PANEL', NameX = 'pCo2 (umbilical vein) - iSTAT PANEL'
-  where LabFRID =
+  where LabFRID = 246
 
 update HC_LabFR
   set DescX = 'pCo2 (umbilical artery) - iSTAT PANEL', NameX = 'pCo2 (umbilical artery) - iSTAT PANEL'
-  where LabFRID =
+  where LabFRID = 247
 
 update HC_LabFR
   set DescX = 'Venous Blood - iSTAT PANEL', NameX = 'Venous Blood - iSTAT PANEL'
-  where LabFRID =
+  where LabFRID = 248
 
 update HC_LabFR
   set DescX = 'pO2(umbilical artery) - iSTAT PANEL', NameX = 'pO2(umbilical artery) - iSTAT PANEL'
-  where LabFRID =
+  where LabFRID = 249
 
 update HC_LabFR
   set DescX = 'pO2(umbilical vein) - iSTAT PANEL', NameX = 'pO2(umbilical vein) - iSTAT PANEL'
-  where LabFRID =
+  where LabFRID = 250
 
 update HC_LabFR
   set DescX = 'pO2 - iSTAT PANEL', NameX = 'pO2 - iSTAT PANEL'
-  where LabFRID =
+  where LabFRID = 251
 
 update HC_LabFR
   set DescX = 'pO2 Arterial - iSTAT PANEL', NameX = 'pO2 Arterial - iSTAT PANEL'
-  where LabFRID =
+  where LabFRID = 252
 
 update HC_LabFR
   set DescX = 'pO2 Mixed Blood - iSTAT PANEL', NameX = 'pO2 Mixed Blood - iSTAT PANEL'
-  where LabFRID =
+  where LabFRID = 253
 
 update HC_LabFR
   set DescX = 'PH(umbilical Artery) - iSTAT PANEL', NameX = 'PH(umbilical Artery) - iSTAT PANEL'
-  where LabFRID =
+  where LabFRID = 254
 
 update HC_LabFR
   set DescX = 'PH(umbilical Vein) - iSTAT PANEL', NameX = 'PH(umbilical Vein) - iSTAT PANEL'
-  where LabFRID =
+  where LabFRID = 255
 
 update HC_LabFR
   set DescX = 'PH Venous - iSTAT PANEL', NameX = 'PH Venous - iSTAT PANEL'
-  where LabFRID =
+  where LabFRID = 256
 
 update HC_LabFR
   set DescX = 'PH Arterial - iSTAT PANEL', NameX = 'PH Arterial - iSTAT PANEL'
-  where LabFRID =
+  where LabFRID = 257
 
 update HC_LabFR
   set DescX = 'PH Mixed venous - iSTAT PANEL', NameX = 'PH Mixed venous - iSTAT PANEL'
-  where LabFRID =
+  where LabFRID = 258
 
 update HC_LabFR
   set DescX = 'Bicarbonate(umbilical vein) - iSTAT PANEL', NameX = 'Bicarbonate(umbilical vein) - iSTAT PANEL'
-  where LabFRID =
+  where LabFRID = 259
 
 update HC_LabFR
   set DescX = 'Bicarbonate venous - iSTAT PANEL', NameX = 'Bicarbonate venous - iSTAT PANEL'
-  where LabFRID =
+  where LabFRID = 260
 
 update HC_LabFR
   set DescX = 'Bicarbonate - iSTAT PANEL', NameX = 'Bicarbonate - iSTAT PANEL'
-  where LabFRID =
+  where LabFRID = 261
 
 update HC_LabFR
   set DescX = 'O2 Saturation(Arterial) - iSTAT PANEL', NameX = 'O2 Saturation(Arterial) - iSTAT PANEL'
-  where LabFRID =
+  where LabFRID = 262
 
 update HC_LabFR
   set DescX = 'O2 Saturation(Venous) - iSTAT PANEL', NameX = 'O2 Saturation(Venous) - iSTAT PANEL'
-  where LabFRID =
+  where LabFRID = 263
 
 update HC_LabFR
   set DescX = 'Base excess(arterial and venous) - iSTAT PANEL', NameX = 'Base excess(arterial and venous) - iSTAT PANEL'
-  where LabFRID =
+  where LabFRID = 264
 
 update HC_LabFR
   set DescX = 'Bleeding Time (BT) - COAG PANEL', NameX = 'Bleeding Time (BT) - COAG PANEL'
-  where LabFRID =
+  where LabFRID = 265
 
 update HC_LabFR
   set DescX = 'Clotting Time (CT) - COAG PANEL', NameX = 'Clotting Time (CT) - COAG PANEL'
-  where LabFRID =
+  where LabFRID = 266
 
 update HC_LabFR
   set DescX = 'PT - COAG PANEL', NameX = 'PT - COAG PANEL'
-  where LabFRID =
+  where LabFRID = 267
 
 update HC_LabFR
   set DescX = 'APTT  (Premature) - COAG PANEL', NameX = 'APTT  (Premature) - COAG PANEL'
-  where LabFRID =
+  where LabFRID = 268
 
 update HC_LabFR
   set DescX = 'APTT (Full term) - COAG PANEL', NameX = 'APTT (Full term) - COAG PANEL'
-  where LabFRID =
+  where LabFRID = 269
 
 update HC_LabFR
   set DescX = 'INR - COAG PANEL', NameX = 'INR - COAG PANEL'
-  where LabFRID =
+  where LabFRID = 270
 
 update HC_LabFR
   set DescX = 'D-Dimer - COAG PANEL', NameX = 'D-Dimer - COAG PANEL'
-  where LabFRID =
+  where LabFRID = 271
 
 update HC_LabFR
   set DescX = 'Lupus Anticoagulant - COAG PANEL', NameX = 'Lupus Anticoagulant - COAG PANEL'
-  where LabFRID =
+  where LabFRID = 272
 
 update HC_LabFR
   set DescX = 'Complement 3 (C3) - COAG PANEL', NameX = 'Complement 3 (C3) - COAG PANEL'
-  where LabFRID =
+  where LabFRID = 273
 
 update HC_LabFR
   set DescX = 'Complement 4 (C4) - COAG PANEL', NameX = 'Complement 4 (C4) - COAG PANEL'
-  where LabFRID =
+  where LabFRID = 274
 
 update HC_LabFR
   set DescX = 'Protein C-functional - COAG PANEL', NameX = 'Protein C-functional - COAG PANEL'
-  where LabFRID =
+  where LabFRID = 275
 
 update HC_LabFR
   set DescX = 'Protein C Ag/FVII Antigen Ratio - COAG PANEL', NameX = 'Protein C Ag/FVII Antigen Ratio - COAG PANEL'
-  where LabFRID =
+  where LabFRID = 276
 
 update HC_LabFR
   set DescX = 'Protein S-functional - COAG PANEL', NameX = 'Protein S-functional - COAG PANEL'
-  where LabFRID =
+  where LabFRID = 277
 
 update HC_LabFR
   set DescX = 'Protein S/FVII Antigen Ratio - COAG PANEL', NameX = 'Protein S/FVII Antigen Ratio - COAG PANEL'
-  where LabFRID =
+  where LabFRID = 278
 
 update HC_LabFR
   set DescX = 'Antithrombin III - COAG PANEL', NameX = 'Antithrombin III - COAG PANEL'
-  where LabFRID =
+  where LabFRID = 282
 
 update HC_LabFR
   set DescX = 'Factor II - COAG PANEL', NameX = 'Factor II - COAG PANEL'
-  where LabFRID =
+  where LabFRID = 283
 
 update HC_LabFR
   set DescX = 'Factor V - COAG PANEL', NameX = 'Factor V - COAG PANEL'
-  where LabFRID =
+  where LabFRID = 284
 
 update HC_LabFR
   set DescX = 'Factor VII - COAG PANEL', NameX = 'Factor VII - COAG PANEL'
-  where LabFRID =
+  where LabFRID = 285
 
 update HC_LabFR
   set DescX = 'Factor VIII - COAG PANEL', NameX = 'Factor VIII - COAG PANEL'
-  where LabFRID =
+  where LabFRID = 286
 
 update HC_LabFR
   set DescX = 'Factor IX - COAG PANEL', NameX = 'Factor IX - COAG PANEL'
-  where LabFRID =
+  where LabFRID = 287
 
 update HC_LabFR
   set DescX = 'Factor X - COAG PANEL', NameX = 'Factor X - COAG PANEL'
-  where LabFRID =
+  where LabFRID = 288
 
 update HC_LabFR
   set DescX = 'Factor XI - COAG PANEL', NameX = 'Factor XI - COAG PANEL'
-  where LabFRID =
+  where LabFRID = 289
 
 update HC_LabFR
   set DescX = 'Factor XII - COAG PANEL', NameX = 'Factor XII - COAG PANEL'
-  where LabFRID =
+  where LabFRID = 290
 
 update HC_LabFR
   set DescX = 'Factor XIII - COAG PANEL', NameX = 'Factor XIII - COAG PANEL'
-  where LabFRID =
+  where LabFRID = 291
 
 update HC_LabFR
   set DescX = 'Fibrin monomers - COAG PANEL', NameX = 'Fibrin monomers - COAG PANEL'
-  where LabFRID =
+  where LabFRID = 292
 
 update HC_LabFR
   set DescX = 'Fibrinogen (Premature) - COAG PANEL', NameX = 'Fibrinogen (Premature) - COAG PANEL'
-  where LabFRID =
+  where LabFRID = 293
 
 update HC_LabFR
   set DescX = 'Fibrinogen (Full Term) - COAG PANEL', NameX = 'Fibrinogen (Full Term) - COAG PANEL'
-  where LabFRID =
+  where LabFRID = 294
 
 update HC_LabFR
   set DescX = 'Fibrinogen Degradation Products - COAG PANEL', NameX = 'Fibrinogen Degradation Products - COAG PANEL'
-  where LabFRID =
+  where LabFRID = 295
 
 update HC_LabFR
   set DescX = 'Fibrinopeptide A - COAG PANEL', NameX = 'Fibrinopeptide A - COAG PANEL'
-  where LabFRID =
+  where LabFRID = 296
 
 update HC_LabFR
   set DescX = 'Fibronectin - COAG PANEL', NameX = 'Fibronectin - COAG PANEL'
-  where LabFRID =
+  where LabFRID = 297
 
 update HC_LabFR
   set DescX = 'Heparin cofactor II - COAG PANEL', NameX = 'Heparin cofactor II - COAG PANEL'
-  where LabFRID =
+  where LabFRID = 298
 
 update HC_LabFR
   set DescX = 'Von Willebrand Factor - COAG PANEL', NameX = 'Von Willebrand Factor - COAG PANEL'
-  where LabFRID =
+  where LabFRID = 301
 
 update HC_LabFR
   set DescX = 'BG.Rh - BG PANEL', NameX = 'BG.Rh - BG PANEL'
-  where LabFRID =
+  where LabFRID = 302
 
 update HC_LabFR
   set DescX = 'Cross Matching - BG PANEL', NameX = 'Cross Matching - BG PANEL'
-  where LabFRID =
+  where LabFRID = 303
 
 update HC_LabFR
   set DescX = 'Rh Antibodies Screen - BG PANEL', NameX = 'Rh Antibodies Screen - BG PANEL'
-  where LabFRID =
+  where LabFRID = 304
 
 update HC_LabFR
   set DescX = 'ANA Abs (Antinuclear Abs) - IMMU PANEL', NameX = 'ANA Abs (Antinuclear Abs) - IMMU PANEL'
-  where LabFRID =
+  where LabFRID = 305
 
 update HC_LabFR
   set DescX = 'ANCA (MPO) - IMMU PANEL', NameX = 'ANCA (MPO) - IMMU PANEL'
-  where LabFRID =
+  where LabFRID = 306
 
 update HC_LabFR
   set DescX = 'ANCA (PR03) - IMMU PANEL', NameX = 'ANCA (PR03) - IMMU PANEL'
-  where LabFRID =
+  where LabFRID = 307
 
 update HC_LabFR
   set DescX = 'Anti CCP - IMMU PANEL', NameX = 'Anti CCP - IMMU PANEL'
-  where LabFRID =
+  where LabFRID = 308
 
 update HC_LabFR
   set DescX = 'Thyroid Abs (TG) - IMMU PANEL', NameX = 'Thyroid Abs (TG) - IMMU PANEL'
-  where LabFRID =
+  where LabFRID = 309
 
 update HC_LabFR
   set DescX = 'Thyroid Abs (TPO) - IMMU PANEL', NameX = 'Thyroid Abs (TPO) - IMMU PANEL'
-  where LabFRID =
+  where LabFRID = 310
 
 update HC_LabFR
   set DescX = 'Cardiolipin IgG - IMMU PANEL', NameX = 'Cardiolipin IgG - IMMU PANEL'
-  where LabFRID =
+  where LabFRID = 311
 
 update HC_LabFR
   set DescX = 'Cardiolipin IgM - IMMU PANEL', NameX = 'Cardiolipin IgM - IMMU PANEL'
-  where LabFRID =
+  where LabFRID = 312
 
 update HC_LabFR
   set DescX = 'DNA Abs (double stranded) - IMMU PANEL', NameX = 'DNA Abs (double stranded) - IMMU PANEL'
-  where LabFRID =
+  where LabFRID = 313
 
 update HC_LabFR
   set DescX = 'IgE Total - IMMU PANEL', NameX = 'IgE Total - IMMU PANEL'
-  where LabFRID =
+  where LabFRID = 314
 
 update HC_LabFR
   set DescX = 'Rapid Plasma Reagin Quant - IMMUNO PANEL', NameX = 'Rapid Plasma Reagin Quant - IMMUNO PANEL'
-  where LabFRID =
+  where LabFRID = 315
 
 update HC_LabFR
   set DescX = 'ANA W/reflex - IMMU PANEL', NameX = 'ANA W/reflex - IMMU PANEL'
-  where LabFRID =
+  where LabFRID = 316
 
 update HC_LabFR
   set DescX = 'Antiglomerular BM Ab - IMMU PANEL', NameX = 'Antiglomerular BM Ab - IMMU PANEL'
-  where LabFRID =
+  where LabFRID = 317
 
 update HC_LabFR
   set DescX = 'Smooth Muscle Antibodies - IMMU PANEL', NameX = 'Smooth Muscle Antibodies - IMMU PANEL'
-  where LabFRID =
+  where LabFRID = 318
 
 update HC_LabFR
   set DescX = 'TSH receptor antibody - IMMU PANEL', NameX = 'TSH receptor antibody - IMMU PANEL'
-  where LabFRID =
+  where LabFRID = 319
 
 update HC_LabFR
   set DescX = 'Anti-centromere - IMMU PANEL', NameX = 'Anti-centromere - IMMU PANEL'
-  where LabFRID =
+  where LabFRID = 320
 
 update HC_LabFR
   set DescX = 'Ig light chains kappa - IMMUNOFIXATION PANEL', NameX = 'Ig light chains kappa - IMMUNOFIXATION PANEL'
-  where LabFRID =
+  where LabFRID = 321
 
 update HC_LabFR
   set DescX = 'Ig light chains Lambda - IMMUNOFIXATION PANEL', NameX = 'Ig light chains Lambda - IMMUNOFIXATION PANEL'
-  where LabFRID =
+  where LabFRID = 322
 
 update HC_LabFR
   set DescX = 'kappa/lambda Ratio - IMMUNOFIXATION PANEL', NameX = 'kappa/lambda Ratio - IMMUNOFIXATION PANEL'
-  where LabFRID =
+  where LabFRID = 323
 
 update HC_LabFR
   set DescX = 'Egg White - FA PANEL', NameX = 'Egg White - FA PANEL'
-  where LabFRID =
+  where LabFRID = 324
 
 update HC_LabFR
   set DescX = 'EggYolk - FA PANEL', NameX = 'EggYolk - FA PANEL'
-  where LabFRID =
+  where LabFRID = 325
 
 update HC_LabFR
   set DescX = 'Cow Milk - FA PANEL', NameX = 'Cow Milk - FA PANEL'
-  where LabFRID =
+  where LabFRID = 326
 
 update HC_LabFR
   set DescX = 'Cow Milk', NameX = 'Cow Milk'
-  where LabFRID =
+  where LabFRID = 327
 
 update HC_LabFR
   set DescX = 'Casein - FA PANEL', NameX = 'Casein - FA PANEL'
-  where LabFRID =
+  where LabFRID = 328
 
 update HC_LabFR
   set DescX = 'Wheat Flour - FA PANEL', NameX = 'Wheat Flour - FA PANEL'
-  where LabFRID =
+  where LabFRID = 329
 
 update HC_LabFR
   set DescX = 'Gluten - FA PANEL', NameX = 'Gluten - FA PANEL'
-  where LabFRID =
+  where LabFRID = 330
 
 update HC_LabFR
   set DescX = 'Rice - FA PANEL', NameX = 'Rice - FA PANEL'
-  where LabFRID =
+  where LabFRID = 331
 
 update HC_LabFR
   set DescX = 'Soy bean - FA PANEL', NameX = 'Soy bean - FA PANEL'
-  where LabFRID =
+  where LabFRID = 332
 
 update HC_LabFR
   set DescX = 'Sesame - FA PANEL', NameX = 'Sesame - FA PANEL'
-  where LabFRID =
+  where LabFRID = 333
 
 update HC_LabFR
   set DescX = 'Peanut - FA PANEL', NameX = 'Peanut - FA PANEL'
-  where LabFRID =
+  where LabFRID = 334
 
 update HC_LabFR
   set DescX = 'Hazelnut - FA PANEL', NameX = 'Hazelnut - FA PANEL'
-  where LabFRID =
+  where LabFRID = 335
 
 update HC_LabFR
   set DescX = 'Pistachio - FA PANEL', NameX = 'Pistachio - FA PANEL'
-  where LabFRID =
+  where LabFRID = 336
 
 update HC_LabFR
   set DescX = 'Sunflower Seeds - FA PANEL', NameX = 'Sunflower Seeds - FA PANEL'
-  where LabFRID =
+  where LabFRID = 337
 
 update HC_LabFR
   set DescX = 'Pumpkin seeds - FA PANEL', NameX = 'Pumpkin seeds - FA PANEL'
-  where LabFRID =
+  where LabFRID = 338
 
 update HC_LabFR
   set DescX = 'Cocoa - FA PANEL - FA PANEL', NameX = 'Cocoa - FA PANEL - FA PANEL'
-  where LabFRID =
+  where LabFRID = 339
 
 update HC_LabFR
   set DescX = 'Orange - FA PANEL - FA PANEL', NameX = 'Orange - FA PANEL - FA PANEL'
-  where LabFRID =
+  where LabFRID = 340
 
 update HC_LabFR
   set DescX = 'Strawberry - FA PANEL - FA PANEL', NameX ='Strawberry - FA PANEL - FA PANEL'
-  where LabFRID =
+  where LabFRID = 341
 
 update HC_LabFR
   set DescX = 'Apple - FA PANEL - FA PANEL', NameX = 'Apple - FA PANEL - FA PANEL'
-  where LabFRID =
+  where LabFRID = 342
 
 update HC_LabFR
   set DescX = 'Banana - FA PANEL', NameX = 'Banana - FA PANEL'
-  where LabFRID =
+  where LabFRID = 343
 
 update HC_LabFR
   set DescX = 'Kiwi - FA PANEL', NameX = 'Kiwi - FA PANEL'
-  where LabFRID =
+  where LabFRID = 344
 
 update HC_LabFR
   set DescX = 'Mulberry - FA PANEL', NameX = 'Mulberry - FA PANEL'
-  where LabFRID =
+  where LabFRID = 345
 
 update HC_LabFR
   set DescX = 'Fig - FA PANEL', NameX = 'Fig - FA PANEL'
-  where LabFRID =
+  where LabFRID = 346
 
 update HC_LabFR
   set DescX = 'Tomato - FA PANEL', NameX = 'Tomato - FA PANEL'
-  where LabFRID =
+  where LabFRID = 347
 
 update HC_LabFR
   set DescX = 'Carrot - FA PANEL', NameX = 'Carrot - FA PANEL'
-  where LabFRID =
+  where LabFRID = 348
 
 update HC_LabFR
   set DescX = 'Potato - FA PANEL', NameX = 'Potato - FA PANEL'
-  where LabFRID =
+  where LabFRID = 349
 
 update HC_LabFR
   set DescX = 'Onion - FA PANEL', NameX = 'Onion - FA PANEL'
-  where LabFRID =
+  where LabFRID = 350
 
 update HC_LabFR
   set DescX = 'Peach - FA PANEL', NameX = 'Peach - FA PANEL'
-  where LabFRID =
+  where LabFRID = 351
 
 update HC_LabFR
   set DescX = 'Cherry - FA PANEL', NameX = 'Cherry - FA PANEL'
-  where LabFRID =
+  where LabFRID = 352
 
 update HC_LabFR
   set DescX = 'Olive - FA PANEL', NameX = 'Olive - FA PANEL'
-  where LabFRID =
+  where LabFRID = 353
 
 update HC_LabFR
   set DescX = 'Green bean - FA PANEL', NameX = 'Green bean - FA PANEL'
-  where LabFRID =
+  where LabFRID = 354
 
 update HC_LabFR
   set DescX = 'Fish mix - FA PANEL', NameX = 'Fish mix - FA PANEL'
-  where LabFRID =
+  where LabFRID = 355
 
 update HC_LabFR
   set DescX = 'Shellfish Mix - FA PANEL', NameX = 'Shellfish Mix - FA PANEL'
-  where LabFRID =
+  where LabFRID = 356
 
 update HC_LabFR
   set DescX = 'Meat Mix - FA PANEL', NameX = 'Meat Mix - FA PANEL'
-  where LabFRID =
+  where LabFRID = 357
 
 update HC_LabFR
   set DescX = 'Chicken Meat - FA PANEL', NameX = 'Chicken Meat - FA PANEL'
-  where LabFRID =
+  where LabFRID = 358
 
 update HC_LabFR
   set DescX = 'Sweet Vernal Grass (g1) - IA PANEL', NameX = 'Sweet Vernal Grass (g1) - IA PANEL'
-  where LabFRID =
+  where LabFRID = 359
 
 update HC_LabFR
   set DescX = 'Timothy Grass (g6) - IA PANEL', NameX = 'Timothy Grass (g6) - IA PANEL'
-  where LabFRID =
+  where LabFRID = 360
 
 update HC_LabFR
   set DescX = 'Cultivated rye(g12) - IA PANEL', NameX = 'Cultivated rye(g12) - IA PANEL'
-  where LabFRID =
+  where LabFRID = 361
 
 update HC_LabFR
   set DescX = 'Alder (t2) - IA PANEL', NameX = 'Alder (t2) - IA PANEL'
-  where LabFRID =
+  where LabFRID = 362
 
 update HC_LabFR
   set DescX = 'Birch - IA PANEL', NameX = 'Birch - IA PANEL'
-  where LabFRID =
+  where LabFRID = 363
 
 update HC_LabFR
   set DescX = 'Oak - IA PANEL', NameX = 'Oak - IA PANEL'
-  where LabFRID =
+  where LabFRID = 364
 
 update HC_LabFR
   set DescX = 'Olive tree - IA PANEL', NameX = 'Olive tree - IA PANEL'
-  where LabFRID =
+  where LabFRID = 365
 
 update HC_LabFR
   set DescX = 'C.ragweed - IA PANEL', NameX = 'C.ragweed - IA PANEL'
-  where LabFRID =
+  where LabFRID = 366
 
 update HC_LabFR
   set DescX = 'Mugwort - IA PANEL', NameX = 'Mugwort - IA PANEL'
-  where LabFRID =
+  where LabFRID = 367
 
 update HC_LabFR
   set DescX = 'Dandelion(w8) - IA PANEL', NameX = 'Dandelion(w8) - IA PANEL'
-  where LabFRID =
+  where LabFRID = 368
 
 update HC_LabFR
   set DescX = 'Dermatophagoides pter - IA PANEL', NameX = 'Dermatophagoides pter - IA PANEL'
-  where LabFRID =
+  where LabFRID = 369
 
 update HC_LabFR
   set DescX = 'Dermatophagoides farinae - IA PANEL', NameX = 'Dermatophagoides farinae - IA PANEL'
-  where LabFRID =
+  where LabFRID = 370
 
 update HC_LabFR
   set DescX = 'Cockroach - IA PANEL', NameX = 'Cockroach - IA PANEL'
-  where LabFRID =
+  where LabFRID = 371
 
 update HC_LabFR
   set DescX = 'Cat epithelial/Hair - IA PANEL', NameX = 'Cat epithelial/Hair - IA PANEL'
-  where LabFRID =
+  where LabFRID = 372
 
 update HC_LabFR
   set DescX = 'Hamster (e84) - IA PANEL', NameX = 'Hamster (e84) - IA PANEL'
-  where LabFRID =
+  where LabFRID = 373
 
 update HC_LabFR
   set DescX = 'Penicillin notatum - IA PANEL', NameX = 'Penicillin notatum - IA PANEL'
-  where LabFRID =
+  where LabFRID = 374
 
 update HC_LabFR
   set DescX = 'Cladosporium herbarium - IA PANEL', NameX = 'Cladosporium herbarium - IA PANEL'
-  where LabFRID =
+  where LabFRID = 375
 
 update HC_LabFR
   set DescX = 'Aspergillus fumigatus - IA PANEL', NameX = 'Aspergillus fumigatus - IA PANEL'
-  where LabFRID =
+  where LabFRID = 376
 
 update HC_LabFR
   set DescX = 'Candida Albicans - IA PANEL', NameX = 'Candida Albicans - IA PANEL'
-  where LabFRID =
+  where LabFRID = 377
 
 update HC_LabFR
   set DescX = 'Alternaria alternata - IA PANEL', NameX = 'Alternaria alternata - IA PANEL'
-  where LabFRID =
+  where LabFRID = 378
 
 update HC_LabFR
   set DescX = 'Hb-A1 - ELECTRO PANEL', NameX = 'Hb-A1 - ELECTRO PANEL'
-  where LabFRID =
+  where LabFRID = 379
 
 update HC_LabFR
   set DescX = 'Hb-A2 - ELECTRO PANEL', NameX = 'Hb-A2 - ELECTRO PANEL'
-  where LabFRID =
+  where LabFRID = 381
 
 update HC_LabFR
   set DescX = 'HBF - ELECTRO PANEL', NameX = 'HBF - ELECTRO PANEL'
-  where LabFRID =
+  where LabFRID = 382
 
 update HC_LabFR
   set DescX = 'Albumin - PE PANEL', NameX = 'Albumin - PE PANEL'
-  where LabFRID =
+  where LabFRID = 383
 
 update HC_LabFR
   set DescX = 'alpha1-Globulin - PE PANEL', NameX = 'alpha1-Globulin - PE PANEL'
-  where LabFRID =
+  where LabFRID = 384
 
 update HC_LabFR
   set DescX = 'alpha2-Globulin - PE PANEL', NameX = 'alpha2-Globulin - PE PANEL'
-  where LabFRID =
+  where LabFRID = 385
 
 update HC_LabFR
   set DescX = 'beta-Globulin - PE PANEL', NameX = 'beta-Globulin - PE PANEL'
-  where LabFRID =
+  where LabFRID = 386
 
 update HC_LabFR
   set DescX = 'gamma-Globulin - PE PANEL', NameX = 'gamma-Globulin - PE PANEL'
-  where LabFRID =
+  where LabFRID = 387
 
 update HC_LabFR
   set DescX = 'Beta HCG Quant - ENDO PANEL', NameX = 'Beta HCG Quant - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 388
 
 update HC_LabFR
   set DescX = 'Free T3 - ENDO PANEL', NameX = 'Free T3 - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 389
 
 update HC_LabFR
   set DescX = 'Free T4 - ENDO PANEL', NameX = 'Free T4 - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 390
 
 update HC_LabFR
   set DescX = 'Total T3 - ENDO PANEL', NameX = 'Total T3 - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 391
 
 update HC_LabFR
   set DescX = 'Total T4 - ENDO PANEL', NameX = 'Total T4 - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 392
 
 update HC_LabFR
   set DescX = 'TSH - ENDO PANEL', NameX = 'TSH - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 393
 
 update HC_LabFR
   set DescX = 'Cortisol Am - ENDO PANEL', NameX = 'Cortisol Am - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 394
 
 update HC_LabFR
   set DescX = 'Cortisol Pm - ENDO PANEL', NameX = 'Cortisol Pm - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 395
 
 update HC_LabFR
   set DescX = 'DHEAS - ENDO PANEL', NameX = 'DHEAS - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 396
 
 update HC_LabFR
   set DescX = 'Estradiol II - ENDO PANEL', NameX = 'Estradiol II - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 397
 
 update HC_LabFR
   set DescX = 'Estradiol II Follicular Phase - ENDO PANEL', NameX = 'Estradiol II Follicular Phase - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 398
 
 update HC_LabFR
   set DescX = 'Estradiol II Ovulat. Phase - ENDO PANEL', NameX = 'Estradiol II Ovulat. Phase - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 399
 
 update HC_LabFR
   set DescX = 'Estradiol II Luteal Phase - ENDO PANEL', NameX = 'Estradiol II Luteal Phase - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 400
 
 update HC_LabFR
   set DescX = 'Estradiol II Post-Menopause - ENDO PANEL', NameX = 'Estradiol II Post-Menopause - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 401
 
 update HC_LabFR
   set DescX = 'Estradiol II Preg. 1st Trimester - ENDO PANEL', NameX = 'Estradiol II Preg. 1st Trimester - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 402
 
 update HC_LabFR
   set DescX = 'FSH - ENDO PANEL', NameX = 'FSH - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 403
 
 update HC_LabFR
   set DescX = 'FSH Follicular phase - ENDO PANEL', NameX = 'FSH Follicular phase - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 404
 
 update HC_LabFR
   set DescX = 'FSH Ovulation phase - ENDO PANEL', NameX = 'FSH Ovulation phase - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 405
 
 update HC_LabFR
   set DescX = 'FSH Luteal phase - ENDO PANEL', NameX = 'FSH Luteal phase - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 406
 
 update HC_LabFR
   set DescX = 'FSH Post-Menopausal - ENDO PANEL', NameX = 'FSH Post-Menopausal - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 407
 
 update HC_LabFR
   set DescX = 'LH - ENDO PANEL', NameX = 'LH - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 408
 
 update HC_LabFR
   set DescX = 'LH Follicular phase - ENDO PANEL', NameX = 'LH Follicular phase - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 409
 
 update HC_LabFR
   set DescX = 'LH Ovulation phase - ENDO PANEL', NameX = 'LH Ovulation phase - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 410
 
 update HC_LabFR
   set DescX = 'LH Luteal phase - ENDO PANEL', NameX = 'LH Luteal phase - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 411
 
 update HC_LabFR
   set DescX = 'LH Post-Menopause - ENDO PANEL', NameX = 'LH Post-Menopause - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 412
 
 update HC_LabFR
   set DescX = 'PROGESTERONE - ENDO PANEL', NameX = 'PROGESTERONE - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 413
 
 update HC_LabFR
   set DescX = 'Progesterone Follicular Phase - ENDO PANEL', NameX = 'Progesterone Follicular Phase - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 414
 
 update HC_LabFR
   set DescX = 'Progesterone Ovulation Phase - ENDO PANEL', NameX = 'Progesterone Ovulation Phase - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 415
 
 update HC_LabFR
   set DescX = 'Progesterone Luteal Phase - ENDO PANEL', NameX = 'Progesterone Luteal Phase - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 416
 
 update HC_LabFR
   set DescX = 'Progesterone Post-Menopause - ENDO PANEL', NameX = 'Progesterone Post-Menopause - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 417
 
 update HC_LabFR
   set DescX = 'Prolactin - ENDO PANEL', NameX = 'Prolactin - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 418
 
 update HC_LabFR
   set DescX = 'TESTOSTERONE TOTAL - ENDO PANEL', NameX = 'TESTOSTERONE TOTAL - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 419
 
 update HC_LabFR
   set DescX = 'SHBG - ENDO PANEL', NameX = 'SHBG - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 420
 
 update HC_LabFR
   set DescX = 'C-PEPTIDE - ENDO PANEL', NameX = 'C-PEPTIDE - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 421
 
 update HC_LabFR
   set DescX = 'Insulin - ENDO PANEL', NameX = 'Insulin - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 422
 
 update HC_LabFR
   set DescX = 'Parathyroid (PTH) - ENDO PANEL', NameX = 'Parathyroid (PTH) - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 423
 
 update HC_LabFR
   set DescX = 'Beta-Crosslaps - ENDO PANEL', NameX = 'Beta-Crosslaps - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 424
 
 update HC_LabFR
   set DescX = 'Aldosterone Recumbent - ENDO PANEL', NameX = 'Aldosterone Recumbent - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 425
 
 update HC_LabFR
   set DescX = 'Aldosterone Standing - ENDO PANEL', NameX = 'Aldosterone Standing - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 426
 
 update HC_LabFR
   set DescX = 'a1-Antitrypsin - ENDO PANEL', NameX = 'a1-Antitrypsin - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 427
 
 update HC_LabFR
   set DescX = 'GH Growth Hormone - ENDO PANEL', NameX = 'GH Growth Hormone - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 428
 
 update HC_LabFR
   set DescX = 'Calcitonin - ENDO PANEL', NameX = 'Calcitonin - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 429
 
 update HC_LabFR
   set DescX = 'Carnitine Free - ENDO PANEL', NameX = 'Calcitonin - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 430
 
 update HC_LabFR
   set DescX = 'AMH - ENDO PANEL', NameX = 'AMH - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 431
 
 update HC_LabFR
   set DescX = 'Free Testosterone - ENDO PANEL', NameX = 'Free Testosterone - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 432
 
 update HC_LabFR
   set DescX = 'Androstenedione - ENDO PANEL', NameX = 'Androstenedione - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 433
 
 update HC_LabFR
   set DescX = 'Androstenedione Follicular - ENDO PANEL', NameX = 'Androstenedione Follicular - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 434
 
 update HC_LabFR
   set DescX = 'Androstenedione Mid cycle - ENDO PANEL', NameX = 'Androstenedione Mid cycle - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 435
 
 update HC_LabFR
   set DescX = 'Androstenedione Leuteal - ENDO PANEL', NameX = 'Androstenedione Leuteal - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 436
 
 update HC_LabFR
   set DescX = 'Androstenedione Post-Menopause - ENDO PANEL', NameX = 'Androstenedione Post-Menopause - ENDO PANEL'
-  where LabFRID =
+  where LabFRID = 437
 
 update HC_LabFR
   set DescX = 'Nor epinephrine - CATE PANEL', NameX = 'Nor epinephrine - CATE PANEL'
-  where LabFRID =
+  where LabFRID = 438
 
 update HC_LabFR
   set DescX = 'Epinephrine - CATE PANEL', NameX = 'Epinephrine - CATE PANEL'
-  where LabFRID =
+  where LabFRID = 439
 
 update HC_LabFR
   set DescX = 'Dopamine - CATE PANEL', NameX = 'Dopamine - CATE PANEL'
-  where LabFRID =
+  where LabFRID = 440
 
 update HC_LabFR
   set DescX = 'Ceruloplasmin - CATE PANEL', NameX = 'Ceruloplasmin - CATE PANEL'
-  where LabFRID =
+  where LabFRID = 441
 
 update HC_LabFR
   set DescX = 'G6PD - CATE PANEL', NameX = 'G6PD - CATE PANEL'
-  where LabFRID =
+  where LabFRID = 442
 
 update HC_LabFR
   set DescX = 'Transferrin - CATE PANEL', NameX = 'Transferrin - CATE PANEL'
-  where LabFRID =
+  where LabFRID = 443
 
 update HC_LabFR
   set DescX = 'Soluble transferrin receptor - CATE PANEL', NameX = 'Soluble transferrin receptor - CATE PANEL'
-  where LabFRID =
+  where LabFRID = 444
 
 update HC_LabFR
   set DescX = 'NACE Prenatal Trisomy 21 - NACE PANEL', NameX = 'NACE Prenatal Trisomy 21 - NACE PANEL'
-  where LabFRID =
+  where LabFRID = 445
 
 update HC_LabFR
   set DescX = 'NACE Prenatal Trisomy 18 - NACE PANEL', NameX = 'NACE Prenatal Trisomy 18 - NACE PANEL'
-  where LabFRID =
+  where LabFRID = 446
 
 update HC_LabFR
   set DescX = 'NACE PrenatalTrisomy 13 - NACE PANEL', NameX = 'NACE PrenatalTrisomy 13 - NACE PANEL'
-  where LabFRID =
+  where LabFRID = 447
 
 update HC_LabFR
   set DescX = 'Trisomy in Sex chromosomes - NACE PANEL', NameX = 'Trisomy in Sex chromosomes - NACE PANEL'
-  where LabFRID =
+  where LabFRID = 448
 
 update HC_LabFR
   set DescX = 'NACE Extended - NACE PANEL', NameX = 'NACE Extended - NACE PANEL'
-  where LabFRID =
+  where LabFRID = 449
 
 update HC_LabFR
   set DescX = 'Blood Culture - MICRO PANEL', NameX = 'Blood Culture - MICRO PANEL'
-  where LabFRID =
+  where LabFRID = 450
 
 update HC_LabFR
   set DescX = 'C/S nasal - MICRO PANEL', NameX = 'C/S nasal - MICRO PANEL'
-  where LabFRID =
+  where LabFRID = 451
 
 update HC_LabFR
   set DescX = 'C/S Throat - MICRO PANEL', NameX = 'C/S Throat - MICRO PANEL'
-  where LabFRID =
+  where LabFRID = 452
 
 update HC_LabFR
   set DescX = 'C/S Ear - MICRO PANEL', NameX = 'C/S Ear - MICRO PANEL'
-  where LabFRID =
+  where LabFRID = 453
 
 update HC_LabFR
   set DescX = 'C/S Wound - MICRO PANEL', NameX = 'C/S Wound - MICRO PANEL'
-  where LabFRID =
+  where LabFRID = 454
 
 update HC_LabFR
   set DescX = 'C/S Sputum - MICRO PANEL', NameX = 'C/S Sputum - MICRO PANEL'
-  where LabFRID =
+  where LabFRID = 455
 
 update HC_LabFR
   set DescX = 'C/S HVS - MICRO PANEL', NameX = 'C/S HVS - MICRO PANEL'
-  where LabFRID =
+  where LabFRID = 456
 
 update HC_LabFR
   set DescX = 'C/S Urethral Swab - MICRO PANEL', NameX = 'C/S Urethral Swab - MICRO PANEL'
-  where LabFRID =
+  where LabFRID = 457
 
 update HC_LabFR
   set DescX = 'Chlamydia Screen - MICRO PANEL', NameX = 'Chlamydia Screen - MICRO PANEL'
-  where LabFRID =
+  where LabFRID = 458
 
 update HC_LabFR
   set DescX = 'Gram Stain - MICRO PANEL', NameX = 'Gram Stain - MICRO PANEL'
-  where LabFRID =
+  where LabFRID = 459
 
 update HC_LabFR
   set DescX = 'HVS GM+ C/S - MICRO PANEL', NameX = 'HVS GM+ C/S - MICRO PANEL'
-  where LabFRID =
+  where LabFRID = 460
 
 update HC_LabFR
   set DescX = 'Mycoplasma/Urea Plasma - MICRO PANEL', NameX = 'Mycoplasma/Urea Plasma - MICRO PANEL'
-  where LabFRID =
+  where LabFRID = 461
 
 update HC_LabFR
   set DescX = 'Mycology KOH - MICRO PANEL', NameX = 'Mycology KOH - MICRO PANEL'
-  where LabFRID =
+  where LabFRID = 462
 
 update HC_LabFR
   set DescX = 'Mycology Culture - MICRO PANEL', NameX = 'Mycology Culture - MICRO PANEL'
-  where LabFRID =
+  where LabFRID = 463
 
 update HC_LabFR
   set DescX = 'Urethral GM+C/S - MICRO PANEL', NameX = 'Urethral GM+C/S - MICRO PANEL'
-  where LabFRID =
+  where LabFRID = 464
 
 update HC_LabFR
   set DescX = 'Prostatic Fluid - MICRO PANEL', NameX = 'Prostatic Fluid - MICRO PANEL'
-  where LabFRID =
+  where LabFRID = 465
 
 update HC_LabFR
   set DescX = 'Vaginal Swab - MICRO PANEL', NameX = 'Vaginal Swab - MICRO PANEL'
-  where LabFRID =
+  where LabFRID = 466
 
 update HC_LabFR
   set DescX = 'Beta Strep Gp A Culture - MICRO PANEL', NameX = 'Beta Strep Gp A Culture - MICRO PANEL'
-  where LabFRID =
+  where LabFRID = 467
 
 update HC_LabFR
   set DescX = 'VIRAL CULT - Viral Culture', NameX = 'VIRAL CULT - Viral Culture'
-  where LabFRID =
+  where LabFRID = 468
 
 update HC_LabFR
   set DescX = 'Acid Fast Smear(AFB) - MICRO PANEL', NameX = 'Acid Fast Smear(AFB) - MICRO PANEL'
-  where LabFRID =
+  where LabFRID = 469
 
 update HC_LabFR
   set DescX = 'Acid Fast Culture (AFB) - MICRO PANEL', NameX = 'Acid Fast Culture (AFB) - MICRO PANEL'
-  where LabFRID =
+  where LabFRID = 470
 
 update HC_LabFR
   set DescX = 'CSF Total Protein - CSF PANEL', NameX = 'CSF Total Protein - CSF PANEL'
-  where LabFRID =
+  where LabFRID = 471
 
 update HC_LabFR
   set DescX = 'Glucose CSF - CSF PANEL', NameX = 'Glucose CSF - CSF PANEL'
-  where LabFRID =
+  where LabFRID = 472
 
 update HC_LabFR
   set DescX = 'Lactic Acid CSF - CSF PANEL', NameX = 'Lactic Acid CSF - CSF PANEL'
-  where LabFRID =
+  where LabFRID = 473
 
 update HC_LabFR
   set DescX = 'C/S CSF - CSF PANEL', NameX = 'C/S CSF - CSF PANEL'
-  where LabFRID =
+  where LabFRID = 474
 
 update HC_LabFR
   set DescX = 'VDRL - CSF - CSF PANEL', NameX = 'VDRL - CSF - CSF PANEL'
-  where LabFRID =
+  where LabFRID = 475
 
 update HC_LabFR
   set DescX = 'Colour(CSF) - CSF PANEL', NameX = 'Colour(CSF) - CSF PANEL'
-  where LabFRID =
+  where LabFRID = 476
 
 update HC_LabFR
   set DescX = 'Transparency - CSF PANEL', NameX = 'Transparency - CSF PANEL'
-  where LabFRID =
+  where LabFRID = 477
 
 update HC_LabFR
   set DescX = 'Coagulum(CSF) - CSF PANEL', NameX = 'Coagulum(CSF) - CSF PANEL'
-  where LabFRID =
+  where LabFRID = 478
 
 update HC_LabFR
   set DescX = 'Blood(CSF) - CSF PANEL', NameX = 'Blood(CSF) - CSF PANEL'
-  where LabFRID =
+  where LabFRID = 479
 
 update HC_LabFR
   set DescX = 'WBC (CSF) - CSF PANEL', NameX = 'WBC (CSF) - CSF PANEL'
-  where LabFRID =
+  where LabFRID = 480
 
 update HC_LabFR
   set DescX = 'RBC(CSF) - CSF PANEL', NameX = 'RBC(CSF) - CSF PANEL'
-  where LabFRID =
+  where LabFRID = 481
 
 update HC_LabFR
   set DescX = 'MTP (CSF) - CSF PANEL', NameX = 'MTP (CSF) - CSF PANEL'
-  where LabFRID =
+  where LabFRID = 483
 
 update HC_LabFR
   set DescX = 'EBV - PCR PANEL', NameX = 'EBV - PCR PANEL'
-  where LabFRID =
+  where LabFRID = 484
 
 update HC_LabFR
   set DescX = 'HBV DNA quantitative - PCR PANEL', NameX = 'HBV DNA quantitative - PCR PANEL'
-  where LabFRID =
+  where LabFRID = 485
 
 update HC_LabFR
   set DescX = 'HBV Genotype - PCR PANEL', NameX = 'HBV Genotype - PCR PANEL'
-  where LabFRID =
+  where LabFRID = 486
 
 update HC_LabFR
   set DescX = 'HCV RNA quantitative - PCR PANEL', NameX = 'HCV RNA quantitative - PCR PANEL'
-  where LabFRID =
+  where LabFRID = 487
 
 update HC_LabFR
   set DescX = 'HCV RNA qualitative - PCR PANEL', NameX = 'HCV RNA qualitative - PCR PANEL'
-  where LabFRID =
+  where LabFRID = 488
 
 update HC_LabFR
   set DescX = 'HCV Genotype - PCR PANEL', NameX = 'HCV Genotype - PCR PANEL'
-  where LabFRID =
+  where LabFRID = 489
 
 update HC_LabFR
   set DescX = 'Affirm - PCR PANEL', NameX = 'Affirm - PCR PANEL'
-  where LabFRID =
+  where LabFRID = 490
 
 update HC_LabFR
   set DescX = 'HPV (33 genotypes) - PCR PANEL', NameX = 'HPV (33 genotypes) - PCR PANEL'
-  where LabFRID =
+  where LabFRID = 491
 
 update HC_LabFR
   set DescX = 'CT/GC DNA - PCR PANEL', NameX = 'CT/GC DNA - PCR PANEL'
-  where LabFRID =
+  where LabFRID = 492
 
 update HC_LabFR
   set DescX = 'HSV - PCR PANEL', NameX = 'HSV - PCR PANEL'
-  where LabFRID =
+  where LabFRID = 493
 
 update HC_LabFR
   set DescX = 'ASO Test - SERO PANEL', NameX = 'ASO Test - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 494
 
 update HC_LabFR
   set DescX = 'Endomysial Abs IgG - SERO PANEL', NameX = 'Endomysial Abs IgG - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 495
 
 update HC_LabFR
   set DescX = 'Endomysial Abs IgA - SERO PANEL', NameX = 'Endomysial Abs IgA - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 496
 
 update HC_LabFR
   set DescX = 'Gliadin Abs IgG - SERO PANEL', NameX = 'Gliadin Abs IgG - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 497
 
 update HC_LabFR
   set DescX = 'Gliadin Abs IgA - SERO PANEL', NameX = 'Gliadin Abs IgA - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 498
 
 update HC_LabFR
   set DescX = 'Brucella Abs - SERO PANEL', NameX = 'Brucella Abs - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 499
 
 update HC_LabFR
   set DescX = 'CRP - Latex - SERO PANEL', NameX = 'CRP - Latex - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 500
 
 update HC_LabFR
   set DescX = 'C. Pneumonia Abs - SERO PANEL', NameX = 'C. Pneumonia Abs - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 501
 
 update HC_LabFR
   set DescX = 'CMV Abs IgG - SERO PANEL', NameX = 'CMV Abs IgG - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 502
 
 update HC_LabFR
   set DescX = 'CMV Abs IgM - SERO PANEL', NameX = 'CMV Abs IgM - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 503
 
 update HC_LabFR
   set DescX = 'EBV Abs - SERO PANEL', NameX = 'EBV Abs - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 504
 
 update HC_LabFR
   set DescX = 'HAV Abs (total) - SERO PANEL', NameX = 'HAV Abs (total) - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 505
 
 update HC_LabFR
   set DescX = 'HAV Abs IgM - SERO PANEL', NameX = 'HAV Abs IgM - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 506
 
 update HC_LabFR
   set DescX = 'HBs-Ag - SERO PANEL', NameX = 'HBs-Ag - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 507
 
 update HC_LabFR
   set DescX = 'HBs-Abs - SERO PANEL', NameX = 'HBs-Abs - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 508
 
 update HC_LabFR
   set DescX = 'HB core-Abs IgM - SERO PANEL', NameX = 'HB core-Abs IgM - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 509
 
 update HC_LabFR
   set DescX = 'Hbe-Ag - SERO PANEL', NameX = 'Hbe-Ag - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 510
 
 update HC_LabFR
   set DescX = 'Hbe-Abs - SERO PANEL', NameX = 'Hbe-Abs - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 511
 
 update HC_LabFR
   set DescX = 'HCV Abs - SERO PANEL', NameX = 'HCV Abs - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 512
 
 update HC_LabFR
   set DescX = 'Candida IgA - SERO PANEL', NameX = 'Candida IgA - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 513
 
 update HC_LabFR
   set DescX = 'H.Pylori IgG - SERO PANEL', NameX = 'H.Pylori IgG - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 514
 
 update HC_LabFR
   set DescX = 'HIV I/II Abs - SERO PANEL', NameX = 'HIV I/II Abs - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 515
 
 update HC_LabFR
   set DescX = 'HSV I/II Abs IgG - SERO PANEL', NameX = 'HSV I/II Abs IgG - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 516
 
 update HC_LabFR
   set DescX = 'HSV I/II Abs IgM - SERO PANEL', NameX = 'HSV I/II Abs IgM - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 517
 
 update HC_LabFR
   set DescX = 'KOH Mount - SERO PANEL', NameX = 'KOH Mount - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 518
 
 update HC_LabFR
   set DescX = 'Mycoplasma Pneum.IgM - SERO PANEL', NameX = 'Mycoplasma Pneum.IgM - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 519
 
 update HC_LabFR
   set DescX = 'Mono Spot - SERO PANEL', NameX = 'Mono Spot - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 520
 
 update HC_LabFR
   set DescX = 'Rheumatoid factor-Latex - SERO PANEL', NameX = 'Rheumatoid factor-Latex - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 521
 
 update HC_LabFR
   set DescX = 'Rubella Abs IgG - SERO PANEL', NameX = 'Rubella Abs IgG - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 522
 
 update HC_LabFR
   set DescX = 'Rubella Abs IgM - SERO PANEL', NameX = 'Rubella Abs IgM - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 523
 
 update HC_LabFR
   set DescX = 'TPHA-test (VDRL) - SERO PANEL', NameX = 'TPHA-test (VDRL) - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 524
 
 update HC_LabFR
   set DescX = 'TPHA-test (TPHA) - SERO PANEL', NameX = 'TPHA-test (TPHA) - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 525
 
 update HC_LabFR
   set DescX = 'Toxo Abs IgG - SERO PANEL', NameX = 'Toxo Abs IgG - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 526
 
 update HC_LabFR
   set DescX = 'Toxo Abs IgM - SERO PANEL', NameX = 'Toxo Abs IgM - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 527
 
 update HC_LabFR
   set DescX = 'V.D.R.L (RPR) - SERO PANEL', NameX = 'V.D.R.L (RPR) - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 528
 
 update HC_LabFR
   set DescX = 'Widal Test (Qualitative) - SERO PANEL', NameX = 'Widal Test (Qualitative) - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 529
 
 update HC_LabFR
   set DescX = 'H.Pylori Screen - SERO PANEL', NameX = 'H.Pylori Screen - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 530
 
 update HC_LabFR
   set DescX = 'C Difficile Toxins A+B', NameX = 'C Difficile Toxins A+B'
-  where LabFRID =
+  where LabFRID = 531
 
 update HC_LabFR
   set DescX = 'C Difficile Toxin Gene NAA - SERO PANEL', NameX = 'C Difficile Toxin Gene NAA - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 532
 
 update HC_LabFR
   set DescX = 'CMV PCR - SERO PANEL', NameX = 'CMV PCR - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 533
 
 update HC_LabFR
   set DescX = 'CMV QUANT  - CMV Quant DNA PCR (plasma) - SERO PANEL', NameX = 'CMV QUANT  - CMV Quant DNA PCR (plasma) - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 534
 
 update HC_LabFR
   set DescX = 'Strep A - Strep Group A Ag - SERO PANEL', NameX = 'Strep A - Strep Group A Ag - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 535
 
 update HC_LabFR
   set DescX = 'Varicella-Zoster V Ab', NameX = 'Varicella-Zoster V Ab'
-  where LabFRID =
+  where LabFRID = 536
 
 update HC_LabFR
   set DescX = 'Varicella-Zoster Ab', NameX = 'Varicella-Zoster Ab'
-  where LabFRID =
+  where LabFRID = 537
 
 update HC_LabFR
   set DescX = 'Influenza A - IgG - SERO PANEL', NameX = 'Influenza A - IgG - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 538
 
 update HC_LabFR
   set DescX = 'Influenza A - IgM - SERO PANEL', NameX = 'Influenza A - IgM - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 539
 
 update HC_LabFR
   set DescX = 'Influenza B - IgG - SERO PANEL', NameX = 'Influenza B - IgG - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 540
 
 update HC_LabFR
   set DescX = 'Influenza B - IgM - SERO PANEL', NameX = 'Influenza B - IgM - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 541
 
 update HC_LabFR
   set DescX = 'MRSA Screen Molecular DNA - SERO PANEL', NameX = 'MRSA Screen Molecular DNA - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 542
 
 update HC_LabFR
   set DescX = 'L. Pneumophila IgG - SERO PANEL', NameX = 'L. Pneumophila IgG - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 543
 
 update HC_LabFR
   set DescX = 'L. Pneumophila IgM - SERO PANEL', NameX = 'L. Pneumophila IgM - SERO PANEL'
-  where LabFRID =
+  where LabFRID = 544
 
 update HC_LabFR
   set DescX = 'Canabis - DS PANEL', NameX = 'Canabis - DS PANEL'
-  where LabFRID =
+  where LabFRID = 545
 
 update HC_LabFR
   set DescX = 'Cocaine - DS PANEL', NameX = 'Cocaine - DS PANEL'
-  where LabFRID =
+  where LabFRID = 546
 
 update HC_LabFR
   set DescX = 'Methadone - DS PANEL', NameX = 'Methadone - DS PANEL'
-  where LabFRID =
+  where LabFRID = 547
 
 update HC_LabFR
   set DescX = 'Opiates - DS PANEL', NameX = 'Opiates - DS PANEL'
-  where LabFRID =
+  where LabFRID = 548
 
 update HC_LabFR
   set DescX = 'Amphetamine - DS PANEL', NameX = 'Amphetamine - DS PANEL'
-  where LabFRID =
+  where LabFRID = 549
 
 update HC_LabFR
   set DescX = 'Barbiturates - DS PANEL', NameX = 'Barbiturates - DS PANEL'
-  where LabFRID =
+  where LabFRID = 550
 
 update HC_LabFR
   set DescX = 'Benzodiazepines - DS PANEL', NameX = 'Benzodiazepines - DS PANEL'
-  where LabFRID =
+  where LabFRID = 551
 
 update HC_LabFR
   set DescX = 'Metamphetamine - DS PANEL', NameX = 'Metamphetamine - DS PANEL'
-  where LabFRID =
+  where LabFRID = 552
 
 update HC_LabFR
   set DescX = 'MDMA - DS PANEL', NameX = 'MDMA - DS PANEL'
-  where LabFRID =
+  where LabFRID = 553
 
 update HC_LabFR
   set DescX = 'Phencyclidine - DS PANEL', NameX = 'Phencyclidine - DS PANEL'
-  where LabFRID =
+  where LabFRID = 554
 
 update HC_LabFR
   set DescX = 'Acetaminophen - DM PANEL', NameX = 'Acetaminophen - DM PANEL'
-  where LabFRID =
+  where LabFRID = 555
 
 update HC_LabFR
   set DescX = 'Acetylsalicylic Acid - DM PANEL', NameX = 'Acetylsalicylic Acid - DM PANEL'
-  where LabFRID =
+  where LabFRID = 556
 
 update HC_LabFR
   set DescX = 'Amikacin - DM PANEL', NameX = 'Amikacin - DM PANEL'
-  where LabFRID =
+  where LabFRID = 557
 
 update HC_LabFR
   set DescX = 'Benzodiazepine - DM PANEL', NameX = 'Benzodiazepine - DM PANEL'
-  where LabFRID =
+  where LabFRID = 558
 
 update HC_LabFR
   set DescX = 'Caffeine - DM PANEL', NameX = 'Caffeine - DM PANEL'
-  where LabFRID =
+  where LabFRID = 559
 
 update HC_LabFR
   set DescX = 'Carbamazepine (Tegretol) - DM PANEL', NameX = 'Carbamazepine (Tegretol) - DM PANEL'
-  where LabFRID =
+  where LabFRID = 560
 
 update HC_LabFR
   set DescX = 'Chloramphenicol - DM PANEL', NameX = 'Chloramphenicol - DM PANEL'
-  where LabFRID =
+  where LabFRID = 561
 
 update HC_LabFR
   set DescX = 'Digitoxin - DM PANEL', NameX = 'Digitoxin - DM PANEL'
-  where LabFRID =
+  where LabFRID = 562
 
 update HC_LabFR
   set DescX = 'Digoxin - DM PANEL', NameX = 'Digoxin - DM PANEL'
-  where LabFRID =
+  where LabFRID = 563
 
 update HC_LabFR
   set DescX = 'Disopyramide - DM PANEL', NameX = 'Disopyramide - DM PANEL'
-  where LabFRID =
+  where LabFRID = 564
 
 update HC_LabFR
   set DescX = 'Ethosuximide - DM PANEL', NameX = 'Ethosuximide - DM PANEL'
-  where LabFRID =
+  where LabFRID = 565
 
 update HC_LabFR
   set DescX = 'Gentamycin - DM PANEL', NameX = 'Gentamycin - DM PANEL'
-  where LabFRID =
+  where LabFRID = 566
 
 update HC_LabFR
   set DescX = 'Lidocaine - DM PANEL', NameX = 'Lidocaine - DM PANEL'
-  where LabFRID =
+  where LabFRID = 567
 
 update HC_LabFR
   set DescX = 'Lithium - DM PANEL', NameX = 'Lithium - DM PANEL'
-  where LabFRID =
+  where LabFRID = 568
 
 update HC_LabFR
   set DescX = 'N-Acetyl procainamide (NAPA) - DM PANEL', NameX = 'N-Acetyl procainamide (NAPA) - DM PANEL'
-  where LabFRID =
+  where LabFRID = 569
 
 update HC_LabFR
   set DescX = 'Phenobarbital - DM PANEL', NameX = 'Phenobarbital - DM PANEL'
-  where LabFRID =
+  where LabFRID = 570
 
 update HC_LabFR
   set DescX = 'Phenytoin - DM PANEL', NameX = 'Phenytoin - DM PANEL'
-  where LabFRID =
+  where LabFRID = 571
 
 update HC_LabFR
   set DescX = 'Primidone - DM PANEL', NameX = 'Primidone - DM PANEL'
-  where LabFRID =
+  where LabFRID = 572
 
 update HC_LabFR
   set DescX = 'Procainamide - DM PANEL', NameX = 'Procainamide - DM PANEL'
-  where LabFRID =
+  where LabFRID = 573
 
 update HC_LabFR
   set DescX = 'Quinidine - DM PANEL', NameX = 'Quinidine - DM PANEL'
-  where LabFRID =
+  where LabFRID = 574
 
 update HC_LabFR
   set DescX = 'Salicylic Acid - DM PANEL', NameX = 'Salicylic Acid - DM PANEL'
-  where LabFRID =
+  where LabFRID = 575
 
 update HC_LabFR
   set DescX = 'Tacrolimus - DM PANEL', NameX = 'Tacrolimus - DM PANEL'
-  where LabFRID =
+  where LabFRID = 576
 
 update HC_LabFR
   set DescX = 'Theophylline - DM PANEL', NameX = 'Theophylline - DM PANEL'
-  where LabFRID =
+  where LabFRID = 577
 
 update HC_LabFR
   set DescX = 'Tobramycin - DM PANEL', NameX = 'Tobramycin - DM PANEL'
-  where LabFRID =
+  where LabFRID = 578
 
 update HC_LabFR
   set DescX = 'Valproic Acid (depakin) - DM PANEL', NameX = 'Valproic Acid (depakin) - DM PANEL'
-  where LabFRID =
+  where LabFRID = 579
 
 update HC_LabFR
   set DescX = 'Vancomycin - DM PANEL', NameX = 'Vancomycin - DM PANEL'
-  where LabFRID =
+  where LabFRID = 580
 
 update HC_LabFR
   set DescX = 'Salicylate', NameX ='Salicylate'
-  where LabFRID =
+  where LabFRID = 582
 
 update HC_LabFR
   set DescX = 'Albumin - STOOL PANEL', NameX = 'Albumin - STOOL PANEL'
-  where LabFRID =
+  where LabFRID = 583
 
 update HC_LabFR
   set DescX = 'Composition Dry Substance - STOOL PANEL', NameX = 'Composition Dry Substance - STOOL PANEL'
-  where LabFRID =
+  where LabFRID = 584
 
 update HC_LabFR
   set DescX = 'Volume of Water - STOOL PANEL', NameX = 'Volume of Water - STOOL PANEL'
-  where LabFRID =
+  where LabFRID = 585
 
 update HC_LabFR
   set DescX = 'Neutral Fats - STOOL PANEL', NameX ='Neutral Fats - STOOL PANEL'
-  where LabFRID =
+  where LabFRID = 586
 
 update HC_LabFR
   set DescX = 'Bile acid - STOOL PANEL', NameX = 'Bile acid - STOOL PANEL'
-  where LabFRID =
+  where LabFRID = 587
 
 update HC_LabFR
   set DescX = 'Stercobilinogen+Stercobilin - STOOL PANEL', NameX = 'Stercobilinogen+Stercobilin - STOOL PANEL'
-  where LabFRID =
+  where LabFRID = 588
 
 update HC_LabFR
   set DescX = 'Copper - STOOL PANEL', NameX = 'Copper - STOOL PANEL'
-  where LabFRID =
+  where LabFRID = 589
 
 update HC_LabFR
   set DescX = 'Lactoferrin - STOOL PANEL', NameX = 'Lactoferrin - STOOL PANEL'
-  where LabFRID =
+  where LabFRID = 590
 
 update HC_LabFR
   set DescX = 'Pancreatic Elastase - STOOL PANEL', NameX = 'Pancreatic Elastase - STOOL PANEL'
-  where LabFRID =
+  where LabFRID = 591
 
 update HC_LabFR
   set DescX = 'Weight - STOOL PANEL', NameX = 'Weight - STOOL PANEL'
-  where LabFRID =
+  where LabFRID = 592
 
 update HC_LabFR
   set DescX = 'Zinc - STOOL PANEL', NameX = 'Zinc - STOOL PANEL'
-  where LabFRID =
+  where LabFRID = 593
 
 update HC_LabFR
   set DescX = 'Fecal Calprotectin - STOOL PANEL', NameX = 'Fecal Calprotectin - STOOL PANEL'
-  where LabFRID =
+  where LabFRID = 594
 
 update HC_LabFR
   set DescX = 'Occult Blood Exam - STOOL PANEL', NameX = 'Occult Blood Exam - STOOL PANEL'
-  where LabFRID =
+  where LabFRID = 595
 
 update HC_LabFR
   set DescX = 'Fecal Immunochemical Test (FIT) - STOOL PANEL', NameX = 'Fecal Immunochemical Test (FIT) - STOOL PANEL'
-  where LabFRID =
+  where LabFRID = 596
 
 update HC_LabFR
   set DescX = 'Stool Culture - STOOL PANEL', NameX = 'Stool Culture - STOOL PANEL'
-  where LabFRID =
+  where LabFRID = 597
 
 update HC_LabFR
   set DescX = 'Stool H.Pylori Ag - STOOL PANEL', NameX = 'Stool H.Pylori Ag - STOOL PANEL'
-  where LabFRID =
+  where LabFRID = 598
 
 update HC_LabFR
   set DescX = 'Ova + Parasite Exam - STOOL PANEL', NameX = 'Ova + Parasite Exam - STOOL PANEL'
-  where LabFRID =
+  where LabFRID = 599
 
 update HC_LabFR
   set DescX = 'a-Glucosidase - SEMEN PANEL', NameX = 'a-Glucosidase - SEMEN PANEL'
-  where LabFRID =
+  where LabFRID = 600
 
 update HC_LabFR
   set DescX = 'Acid Phosphatase - SEMEN PANEL', NameX = 'Acid Phosphatase - SEMEN PANEL'
